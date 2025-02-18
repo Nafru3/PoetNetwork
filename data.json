@@ -1,284 +1,5 @@
 [
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3131267",
-        "name":"Henri Hertz",
-        "date_birth":"1875-06-17T00:00:00Z",
-        "date_death":"1966-10-11T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":498
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q124713352",
-        "name":"fr",
-        "date_birth":"1985-07-25T00:00:00Z",
-        "date_death":"None",
-        "works":"",
-        "movements":"",
-        "popularity":155
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q55836844",
-        "name":"Eugène Tourneux",
-        "date_birth":"1809-10-06T00:00:00Z",
-        "date_death":"1867-06-26T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":177
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3171429",
-        "name":"Jean Cortot",
-        "date_birth":"1925-02-14T00:00:00Z",
-        "date_death":"2018-12-28T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":2024
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q85808013",
-        "name":"Hippolyte Stupuy",
-        "date_birth":"1832-06-18T00:00:00Z",
-        "date_death":"1900-05-01T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3123819",
-        "name":"Gérard Caramaro",
-        "date_birth":"1953-05-14T00:00:00Z",
-        "date_death":"None",
-        "works":"",
-        "movements":"",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q447941",
-        "name":"Alioune Badara Bèye",
-        "date_birth":"1945-09-28T00:00:00Z",
-        "date_death":"2024-12-01T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":3335
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q2958880",
-        "name":"Charles Derennes",
-        "date_birth":"1882-08-04T00:00:00Z",
-        "date_death":"1930-01-01T00:00:00Z",
-        "works":"Le Bestiaire sentimental",
-        "movements":"",
-        "popularity":577
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q25982527",
-        "name":"André Malartre",
-        "date_birth":"1921-04-24T00:00:00Z",
-        "date_death":"1995-09-13T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":123
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q116474792",
-        "name":"François Peyrey",
-        "date_birth":"1873-01-01T00:00:00Z",
-        "date_death":"1934-06-01T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q2829593",
-        "name":"Alain Borer",
-        "date_birth":"1949-11-06T00:00:00Z",
-        "date_death":"None",
-        "works":"",
-        "movements":"",
-        "popularity":4514
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3564298",
-        "name":"Véronique Cyr",
-        "date_birth":"1978-01-01T00:00:00Z",
-        "date_death":"None",
-        "works":"",
-        "movements":"",
-        "popularity":126
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q569093",
-        "name":"Gérald Neveu",
-        "date_birth":"1921-08-10T00:00:00Z",
-        "date_death":"1960-02-28T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":588
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q292539",
-        "name":"Hélène Vacaresco",
-        "date_birth":"1864-09-21T00:00:00Z",
-        "date_death":"1947-02-17T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":1697
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q2859996",
-        "name":"Archag Tchobanian",
-        "date_birth":"1872-07-15T00:00:00Z",
-        "date_death":"1954-06-08T00:00:00Z",
-        "works":"La Roseraie d'Arménie",
-        "movements":"Mouvement de libération nationale arménien, Parnasse",
-        "popularity":3572
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3559833",
-        "name":"Vincent Sabatier",
-        "date_birth":"1966-02-28T00:00:00Z",
-        "date_death":"None",
-        "works":"",
-        "movements":"",
-        "popularity":253
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3434669",
-        "name":"Robert Bréchon",
-        "date_birth":"1920-01-06T00:00:00Z",
-        "date_death":"2012-07-30T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":382
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q16267445",
-        "name":"Gaston Tremblay",
-        "date_birth":"1949-08-30T00:00:00Z",
-        "date_death":"None",
-        "works":"",
-        "movements":"",
-        "popularity":16
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q17488350",
-        "name":"Francis Tesson",
-        "date_birth":"1837-04-09T00:00:00Z",
-        "date_death":"1918-02-18T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q16947557",
-        "name":"Alain Taurinya",
-        "date_birth":"1914-03-14T00:00:00Z",
-        "date_death":"2004-03-13T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q16946084",
-        "name":"André Dorismond",
-        "date_birth":"1928-10-10T00:00:00Z",
-        "date_death":"2018-05-04T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3241931",
-        "name":"Lionel Richard",
-        "date_birth":"1938-01-01T00:00:00Z",
-        "date_death":"None",
-        "works":"",
-        "movements":"",
-        "popularity":1410
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q34651286",
-        "name":"Ovida Delect",
-        "date_birth":"1926-04-24T00:00:00Z",
-        "date_death":"1996-10-09T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":1636
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q12948079",
-        "name":"Auguste Tandon",
-        "date_birth":"1758-01-01T00:00:00Z",
-        "date_death":"1824-01-01T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q12034417",
-        "name":"Lumír Čivrný",
-        "date_birth":"1915-08-03T00:00:00Z",
-        "date_death":"2001-12-08T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q12227257",
-        "name":"Issam al-Attar",
-        "date_birth":"1927-12-12T00:00:00Z",
-        "date_death":"2024-05-03T00:00:00Z",
-        "works":"",
-        "movements":"salafisme",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q119260064",
-        "name":"Thérèse Canet",
-        "date_birth":"1953-12-11T00:00:00Z",
-        "date_death":"None",
-        "works":"",
-        "movements":"",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q429029",
-        "name":"Didier Malherbe",
-        "date_birth":"1943-01-22T00:00:00Z",
-        "date_death":"None",
-        "works":"",
-        "movements":"",
-        "popularity":5297
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q18197543",
-        "name":"Victor Delaporte",
-        "date_birth":"1846-11-06T00:00:00Z",
-        "date_death":"1910-04-25T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q93287656",
-        "name":"André Sempoux",
-        "date_birth":"1935-01-01T00:00:00Z",
-        "date_death":"2019-07-06T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":0
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q2575962",
-        "name":"Jean Sénac",
-        "date_birth":"1926-11-29T00:00:00Z",
-        "date_death":"1973-08-30T00:00:00Z",
-        "works":"",
-        "movements":"Anticolonialisme, anarchisme",
-        "popularity":52
-    },
-    {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q214642",
         "name":"Paul Auster",
         "date_birth":"1947-02-03T00:00:00Z",
@@ -288,165 +9,417 @@
         "popularity":316546
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3471213",
-        "name":"Samuel Pozzi",
-        "date_birth":"1846-10-03T00:00:00Z",
-        "date_death":"1918-06-13T00:00:00Z",
-        "works":"",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q203952",
+        "name":"Antoine de Rivarol",
+        "date_birth":"1753-06-26T00:00:00Z",
+        "date_death":"1801-04-11T00:00:00Z",
+        "works":"De l'universalité de la langue française",
         "movements":"",
-        "popularity":7570
+        "popularity":23076
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q18197319",
-        "name":"Léon Bocquet",
-        "date_birth":"1876-08-11T00:00:00Z",
-        "date_death":"1954-06-04T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":592
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q160534",
+        "name":"Jack Kerouac",
+        "date_birth":"1922-03-12T00:00:00Z",
+        "date_death":"1969-10-21T00:00:00Z",
+        "works":"Big Sur, Les Souterrains, Les Clochards célestes, Sur la route, Anges de la Désolation",
+        "movements":"Beat Generation",
+        "popularity":88984
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3371720",
-        "name":"Paul Louis Rossi",
-        "date_birth":"1933-11-04T00:00:00Z",
-        "date_death":"2025-02-06T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q216582",
+        "name":"Filippo Tommaso Marinetti",
+        "date_birth":"1876-12-22T00:00:00Z",
+        "date_death":"1944-12-02T00:00:00Z",
         "works":"",
-        "movements":"",
-        "popularity":666
+        "movements":"futurisme",
+        "popularity":14713
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q56525638",
-        "name":"Barbara Goldberg",
-        "date_birth":"1943-04-26T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q170095",
+        "name":"Robert Desnos",
+        "date_birth":"1900-07-04T00:00:00Z",
+        "date_death":"1945-06-08T00:00:00Z",
+        "works":"",
+        "movements":"surréalisme",
+        "popularity":75804
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3059438",
+        "name":"Etzer Vilaire",
+        "date_birth":"1872-04-07T00:00:00Z",
+        "date_death":"1951-05-22T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":14255
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3105220",
+        "name":"Giani Esposito",
+        "date_birth":"1930-08-22T00:00:00Z",
+        "date_death":"1974-01-01T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":25949
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q510227",
+        "name":"Louise Portal",
+        "date_birth":"1950-05-12T00:00:00Z",
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":0
+        "popularity":11281
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q51237099",
-        "name":"Jeanne Herter-Eymond",
-        "date_birth":"1878-08-18T00:00:00Z",
-        "date_death":"1927-11-21T00:00:00Z",
-        "works":"",
-        "movements":"",
-        "popularity":0
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q200580",
+        "name":"Guillaume de Machaut",
+        "date_birth":"1300-01-01T00:00:00Z",
+        "date_death":"1377-01-01T00:00:00Z",
+        "works":"Le livre du voir dit, Le jugement du roi de Navarre, Le jugement dou roy de Behaigne, Le dit du lyon, Le confort d'ami, La fontaine amoureuse, La prise d'Alexandrie, Le dit de la harpe, Le dit du vergier, Le dit de la marguerite, Le dit de la fleur de lis et de la marguerite, Le dit de la rose, Le dit du cerf blanc, Le dit de l'alerion, Le dit du cheval, La louange des dames, Le remede de Fortune, Œuvres poétiques de Guillaume de Machaut, Hoquet David, Messe de Notre Dame",
+        "movements":"musique médiévale, musique classique",
+        "popularity":24358
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q72754722",
-        "name":"Hughes Richard",
-        "date_birth":"1934-07-12T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q918784",
+        "name":"MC Solaar",
+        "date_birth":"1969-03-05T00:00:00Z",
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":166
+        "popularity":348714
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3104403",
-        "name":"Gerty Dambury",
-        "date_birth":"1957-02-27T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q7199",
+        "name":"Marcel Proust",
+        "date_birth":"1871-07-10T00:00:00Z",
+        "date_death":"1922-11-18T00:00:00Z",
+        "works":"Jean Santeuil, À l'ombre des jeunes filles en fleurs, À la recherche du temps perdu",
+        "movements":"",
+        "popularity":247683
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q155493",
+        "name":"Philippe Léotard",
+        "date_birth":"1940-08-28T00:00:00Z",
+        "date_death":"2001-08-25T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":102534
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q200639",
+        "name":"Paul Valéry",
+        "date_birth":"1871-10-30T00:00:00Z",
+        "date_death":"1945-07-20T00:00:00Z",
+        "works":"La Crise de l’esprit, Les principes d’an-archie pure et appliquée",
+        "movements":"",
+        "popularity":105808
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q188697",
+        "name":"Alphonse de Lamartine",
+        "date_birth":"1790-10-21T00:00:00Z",
+        "date_death":"1869-02-28T00:00:00Z",
+        "works":"Œuvres complètes de Lamartine (1860)\/Tome 1\/L’Isolement, Recueillements poétiques, Pensée des Morts, Le Vallon, Histoire des Girondins, Voyage en Orient, Graziella, Nouvelles Méditations poétiques, Méditations poétiques, Le Lac, La Mort de Socrate",
+        "movements":"romantisme",
+        "popularity":183083
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q316536",
+        "name":"Tristan Corbière",
+        "date_birth":"1845-07-18T00:00:00Z",
+        "date_death":"1875-03-01T00:00:00Z",
+        "works":"",
+        "movements":"symbolisme",
+        "popularity":22834
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q955432",
+        "name":"Gaston Miron",
+        "date_birth":"1928-01-08T00:00:00Z",
+        "date_death":"1996-12-14T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":12702
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q5912",
+        "name":"Marcel Duchamp",
+        "date_birth":"1887-07-28T00:00:00Z",
+        "date_death":"1968-10-02T00:00:00Z",
+        "works":"L.H.O.O.Q., Étant donnés, Nu descendant un escalier",
+        "movements":"art conceptuel, surréalisme, Dada",
+        "popularity":81625
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q561835",
+        "name":"Armand Gatti",
+        "date_birth":"1924-01-26T00:00:00Z",
+        "date_death":"2017-04-06T00:00:00Z",
+        "works":"V comme Vietnam",
+        "movements":"",
+        "popularity":12013
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q550806",
+        "name":"Roland Topor",
+        "date_birth":"1938-01-07T00:00:00Z",
+        "date_death":"1997-04-16T00:00:00Z",
+        "works":"Le Locataire chimérique",
+        "movements":"",
+        "popularity":33733
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q1094964",
+        "name":"Paul Déroulède",
+        "date_birth":"1846-09-02T00:00:00Z",
+        "date_death":"1914-01-30T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":73222
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q1804",
+        "name":"Barbara",
+        "date_birth":"1930-06-09T00:00:00Z",
+        "date_death":"1997-11-24T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":261068
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q2474670",
+        "name":"Jean-Pierre Luminet",
+        "date_birth":"1951-06-03T00:00:00Z",
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":1140
+        "popularity":14887
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3174546",
-        "name":"Jean Sanitas",
-        "date_birth":"1927-11-06T00:00:00Z",
-        "date_death":"2016-08-08T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q264918",
+        "name":"Arthur de Gobineau",
+        "date_birth":"1816-07-14T00:00:00Z",
+        "date_death":"1882-10-13T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":274
+        "popularity":38785
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q53634764",
-        "name":"Régis Moulu",
-        "date_birth":"1968-06-14T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3289359",
+        "name":"Marcel Rouff",
+        "date_birth":"1877-05-04T00:00:00Z",
+        "date_death":"1936-02-03T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":14549
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q16409",
+        "name":"Tristan Tzara",
+        "date_birth":"1896-04-16T00:00:00Z",
+        "date_death":"1963-12-24T00:00:00Z",
+        "works":"",
+        "movements":"surréalisme, Dada",
+        "popularity":32191
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q123382",
+        "name":"Frithjof Schuon",
+        "date_birth":"1907-06-18T00:00:00Z",
+        "date_death":"1998-05-05T00:00:00Z",
+        "works":"Comprendre l'Islam, Logique et transcendance, Forme et substance dans les religions, La Transfiguration de l’Homme (1995)., De l'Unité transcendante des religions",
+        "movements":"philosophie éternelle, pérennialisme",
+        "popularity":10163
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q2633593",
+        "name":"Jean Amrouche",
+        "date_birth":"1906-02-07T00:00:00Z",
+        "date_death":"1962-04-16T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":19997
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q108574419",
+        "name":"Clara Ysé",
+        "date_birth":"1992-10-27T00:00:00Z",
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":0
+        "popularity":172168
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q17350116",
-        "name":"Edmond Roche",
-        "date_birth":"1828-02-20T00:00:00Z",
-        "date_death":"1861-12-24T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q462591",
+        "name":"Michel Leiris",
+        "date_birth":"1901-04-20T00:00:00Z",
+        "date_death":"1990-09-30T00:00:00Z",
+        "works":"",
+        "movements":"surréalisme",
+        "popularity":31947
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q183713",
+        "name":"Théophile Gautier",
+        "date_birth":"1811-08-30T00:00:00Z",
+        "date_death":"1872-10-23T00:00:00Z",
+        "works":"",
+        "movements":"Parnasse, romantisme",
+        "popularity":135704
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q2773178",
+        "name":"Théodore Botrel",
+        "date_birth":"1868-09-14T00:00:00Z",
+        "date_death":"1925-07-25T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":128
+        "popularity":12416
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q1063981",
-        "name":"Charles Coran",
-        "date_birth":"1814-01-01T00:00:00Z",
-        "date_death":"1901-08-23T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3387616",
+        "name":"Pierre de Marbeuf",
+        "date_birth":"1595-01-01T00:00:00Z",
+        "date_death":"1645-01-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":133
+        "popularity":11402
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q118370551",
-        "name":"Louis Papin",
-        "date_birth":"1848-02-27T00:00:00Z",
-        "date_death":"1929-01-01T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q462644",
+        "name":"Théophile de Viau",
+        "date_birth":"1590-04-01T00:00:00Z",
+        "date_death":"1626-09-25T00:00:00Z",
+        "works":"Les Amours tragiques de Pyrame et Thisbé, La Maison de Sylvie",
+        "movements":"littérature baroque",
+        "popularity":15411
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q272",
+        "name":"Paul Morand",
+        "date_birth":"1888-03-13T00:00:00Z",
+        "date_death":"1976-07-23T00:00:00Z",
+        "works":"Flèche d'Orient, Air indien, Magie noire, Hécate et ses chiens, L'Homme pressé",
+        "movements":"les Hussards",
+        "popularity":55662
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q274319",
+        "name":"Édouard Glissant",
+        "date_birth":"1928-09-21T00:00:00Z",
+        "date_death":"2011-02-03T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":0
+        "popularity":48063
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q113089",
-        "name":"Robert Garnier",
-        "date_birth":"1545-01-01T00:00:00Z",
-        "date_death":"1590-09-20T00:00:00Z",
-        "works":"",
-        "movements":"Renaissance",
-        "popularity":4457
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3092469",
-        "name":"Félix Gras",
-        "date_birth":"1844-05-03T00:00:00Z",
-        "date_death":"1901-03-04T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q2523100",
+        "name":"Judith Gautier",
+        "date_birth":"1845-08-25T00:00:00Z",
+        "date_death":"1917-12-26T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":993
+        "popularity":10402
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q2633356",
-        "name":"Paul Arène",
-        "date_birth":"1843-06-26T00:00:00Z",
-        "date_death":"1896-12-17T00:00:00Z",
-        "works":"",
-        "movements":"régionalisme",
-        "popularity":5799
-    },
-    {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q3426503",
-        "name":"René Le Somptier",
-        "date_birth":"1884-11-12T00:00:00Z",
-        "date_death":"1950-09-23T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q462604",
+        "name":"Victor Segalen",
+        "date_birth":"1878-01-14T00:00:00Z",
+        "date_death":"1919-05-21T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":336
+        "popularity":20768
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q15078875",
-        "name":"Joseph-Toussaint Avril",
-        "date_birth":"1775-01-01T00:00:00Z",
-        "date_death":"1841-01-01T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q534905",
+        "name":"Minou Drouet",
+        "date_birth":"1947-07-24T00:00:00Z",
+        "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":0
+        "popularity":17703
     },
     {
-        "poet":"http:\/\/www.wikidata.org\/entity\/Q15970598",
-        "name":"Tristan Cabral",
-        "date_birth":"1944-03-01T00:00:00Z",
-        "date_death":"2020-06-22T00:00:00Z",
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3269230",
+        "name":"Lydie Dattas",
+        "date_birth":"1949-03-19T00:00:00Z",
+        "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":679
+        "popularity":36179
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q4128",
+        "name":"Louis Aragon",
+        "date_birth":"1897-10-03T00:00:00Z",
+        "date_death":"1982-12-24T00:00:00Z",
+        "works":"",
+        "movements":"surréalisme, Dada",
+        "popularity":193431
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q4137",
+        "name":"Elsa Triolet",
+        "date_birth":"1896-09-24T00:00:00Z",
+        "date_death":"1970-06-16T00:00:00Z",
+        "works":"Le premier accroc coûte deux cents francs",
+        "movements":"",
+        "popularity":85701
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q234816",
+        "name":"Christine de Pizan",
+        "date_birth":"1364-09-19T00:00:00Z",
+        "date_death":"1431-01-01T00:00:00Z",
+        "works":"Les trois jugemens, Passion Isabeau, Les heures de contemplacion de la Passion, Les lamentacions sur les maux de la France, L'epistre de la prison de vie humaine, Complainte amoureuse (II), Complainte amoureuse (I), Le Livre des fais et bonnes meurs du sage roy Charles V, Le ditié de Jehanne d'Arc, Le Livre des trois vertus à l'enseignement des dames, L'oroyson Nostre Dame, L'oroyson Nostre Seigneur, Lais, Encore aultres balades, Autres balades, Les balades d'estrange façon, Les cent ballades d'amant et de dame, Les cent ballades, Rondeaux, Virelais, Les jeux a vendre, L'avision du coq, Le debat de deux amans, Le dit de Poissy, proverbes moraux, Le dit de la rose, Les quinze joyes Nostre Dame, Le dit de la pastoure, Une epistre a Eustace Morel, L'avision Christine, Le livre du corps de policie, Le livre de prudence, Les sept psaumes allegorisés, Le Livre des épîtres du débat sur le Roman de la Rose, Le livre du duc des vrais amans, Dédicace à la reine, L'epistre Othea, Le Chemin de longue étude, La Cité des dames",
+        "movements":"",
+        "popularity":75276
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q545423",
+        "name":"Jacques Audiberti",
+        "date_birth":"1899-03-25T00:00:00Z",
+        "date_death":"1965-07-10T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":15100
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q705210",
+        "name":"Arsène Houssaye",
+        "date_birth":"1814-03-28T00:00:00Z",
+        "date_death":"1896-02-26T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":11123
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q379956",
+        "name":"Henry de Montherlant",
+        "date_birth":"1895-04-20T00:00:00Z",
+        "date_death":"1972-09-21T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":67550
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q549230",
+        "name":"Malcolm de Chazal",
+        "date_birth":"1902-09-12T00:00:00Z",
+        "date_death":"1981-10-01T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":10492
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q708473",
+        "name":"Isidore Isou",
+        "date_birth":"1925-01-29T00:00:00Z",
+        "date_death":"2007-07-28T00:00:00Z",
+        "works":"",
+        "movements":"lettrisme",
+        "popularity":12096
     }
 ]
