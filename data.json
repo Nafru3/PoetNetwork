@@ -97,5 +97,356 @@
         "works":"",
         "movements":"",
         "popularity":4514
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3564298",
+        "name":"Véronique Cyr",
+        "date_birth":"1978-01-01T00:00:00Z",
+        "date_death":"None",
+        "works":"",
+        "movements":"",
+        "popularity":126
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q569093",
+        "name":"Gérald Neveu",
+        "date_birth":"1921-08-10T00:00:00Z",
+        "date_death":"1960-02-28T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":588
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q292539",
+        "name":"Hélène Vacaresco",
+        "date_birth":"1864-09-21T00:00:00Z",
+        "date_death":"1947-02-17T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":1697
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q2859996",
+        "name":"Archag Tchobanian",
+        "date_birth":"1872-07-15T00:00:00Z",
+        "date_death":"1954-06-08T00:00:00Z",
+        "works":"La Roseraie d'Arménie",
+        "movements":"Mouvement de libération nationale arménien, Parnasse",
+        "popularity":3572
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3559833",
+        "name":"Vincent Sabatier",
+        "date_birth":"1966-02-28T00:00:00Z",
+        "date_death":"None",
+        "works":"",
+        "movements":"",
+        "popularity":253
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3434669",
+        "name":"Robert Bréchon",
+        "date_birth":"1920-01-06T00:00:00Z",
+        "date_death":"2012-07-30T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":382
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q16267445",
+        "name":"Gaston Tremblay",
+        "date_birth":"1949-08-30T00:00:00Z",
+        "date_death":"None",
+        "works":"",
+        "movements":"",
+        "popularity":16
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q17488350",
+        "name":"Francis Tesson",
+        "date_birth":"1837-04-09T00:00:00Z",
+        "date_death":"1918-02-18T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q16947557",
+        "name":"Alain Taurinya",
+        "date_birth":"1914-03-14T00:00:00Z",
+        "date_death":"2004-03-13T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q16946084",
+        "name":"André Dorismond",
+        "date_birth":"1928-10-10T00:00:00Z",
+        "date_death":"2018-05-04T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3241931",
+        "name":"Lionel Richard",
+        "date_birth":"1938-01-01T00:00:00Z",
+        "date_death":"None",
+        "works":"",
+        "movements":"",
+        "popularity":1410
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q34651286",
+        "name":"Ovida Delect",
+        "date_birth":"1926-04-24T00:00:00Z",
+        "date_death":"1996-10-09T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":1636
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q12948079",
+        "name":"Auguste Tandon",
+        "date_birth":"1758-01-01T00:00:00Z",
+        "date_death":"1824-01-01T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q12034417",
+        "name":"Lumír Čivrný",
+        "date_birth":"1915-08-03T00:00:00Z",
+        "date_death":"2001-12-08T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q12227257",
+        "name":"Issam al-Attar",
+        "date_birth":"1927-12-12T00:00:00Z",
+        "date_death":"2024-05-03T00:00:00Z",
+        "works":"",
+        "movements":"salafisme",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q119260064",
+        "name":"Thérèse Canet",
+        "date_birth":"1953-12-11T00:00:00Z",
+        "date_death":"None",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q429029",
+        "name":"Didier Malherbe",
+        "date_birth":"1943-01-22T00:00:00Z",
+        "date_death":"None",
+        "works":"",
+        "movements":"",
+        "popularity":5297
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q18197543",
+        "name":"Victor Delaporte",
+        "date_birth":"1846-11-06T00:00:00Z",
+        "date_death":"1910-04-25T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q93287656",
+        "name":"André Sempoux",
+        "date_birth":"1935-01-01T00:00:00Z",
+        "date_death":"2019-07-06T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q2575962",
+        "name":"Jean Sénac",
+        "date_birth":"1926-11-29T00:00:00Z",
+        "date_death":"1973-08-30T00:00:00Z",
+        "works":"",
+        "movements":"Anticolonialisme, anarchisme",
+        "popularity":52
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q214642",
+        "name":"Paul Auster",
+        "date_birth":"1947-02-03T00:00:00Z",
+        "date_death":"2024-04-30T00:00:00Z",
+        "works":"Léviathan, Seul dans le noir, Trilogie new-yorkaise, Le Livre des illusions",
+        "movements":"",
+        "popularity":316546
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3471213",
+        "name":"Samuel Pozzi",
+        "date_birth":"1846-10-03T00:00:00Z",
+        "date_death":"1918-06-13T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":7570
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q18197319",
+        "name":"Léon Bocquet",
+        "date_birth":"1876-08-11T00:00:00Z",
+        "date_death":"1954-06-04T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":592
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3371720",
+        "name":"Paul Louis Rossi",
+        "date_birth":"1933-11-04T00:00:00Z",
+        "date_death":"2025-02-06T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":666
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q56525638",
+        "name":"Barbara Goldberg",
+        "date_birth":"1943-04-26T00:00:00Z",
+        "date_death":"None",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q51237099",
+        "name":"Jeanne Herter-Eymond",
+        "date_birth":"1878-08-18T00:00:00Z",
+        "date_death":"1927-11-21T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q72754722",
+        "name":"Hughes Richard",
+        "date_birth":"1934-07-12T00:00:00Z",
+        "date_death":"None",
+        "works":"",
+        "movements":"",
+        "popularity":166
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3104403",
+        "name":"Gerty Dambury",
+        "date_birth":"1957-02-27T00:00:00Z",
+        "date_death":"None",
+        "works":"",
+        "movements":"",
+        "popularity":1140
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3174546",
+        "name":"Jean Sanitas",
+        "date_birth":"1927-11-06T00:00:00Z",
+        "date_death":"2016-08-08T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":274
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q53634764",
+        "name":"Régis Moulu",
+        "date_birth":"1968-06-14T00:00:00Z",
+        "date_death":"None",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q17350116",
+        "name":"Edmond Roche",
+        "date_birth":"1828-02-20T00:00:00Z",
+        "date_death":"1861-12-24T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":128
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q1063981",
+        "name":"Charles Coran",
+        "date_birth":"1814-01-01T00:00:00Z",
+        "date_death":"1901-08-23T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":133
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q118370551",
+        "name":"Louis Papin",
+        "date_birth":"1848-02-27T00:00:00Z",
+        "date_death":"1929-01-01T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q113089",
+        "name":"Robert Garnier",
+        "date_birth":"1545-01-01T00:00:00Z",
+        "date_death":"1590-09-20T00:00:00Z",
+        "works":"",
+        "movements":"Renaissance",
+        "popularity":4457
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3092469",
+        "name":"Félix Gras",
+        "date_birth":"1844-05-03T00:00:00Z",
+        "date_death":"1901-03-04T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":993
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q2633356",
+        "name":"Paul Arène",
+        "date_birth":"1843-06-26T00:00:00Z",
+        "date_death":"1896-12-17T00:00:00Z",
+        "works":"",
+        "movements":"régionalisme",
+        "popularity":5799
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q3426503",
+        "name":"René Le Somptier",
+        "date_birth":"1884-11-12T00:00:00Z",
+        "date_death":"1950-09-23T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":336
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q15078875",
+        "name":"Joseph-Toussaint Avril",
+        "date_birth":"1775-01-01T00:00:00Z",
+        "date_death":"1841-01-01T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":0
+    },
+    {
+        "poet":"http:\/\/www.wikidata.org\/entity\/Q15970598",
+        "name":"Tristan Cabral",
+        "date_birth":"1944-03-01T00:00:00Z",
+        "date_death":"2020-06-22T00:00:00Z",
+        "works":"",
+        "movements":"",
+        "popularity":679
     }
 ]
