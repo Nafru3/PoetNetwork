@@ -1,0 +1,250 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 750px;
+                 background-color: #222222;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+             #loadingBar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width: 100%;
+                 height: 750px;
+                 background-color:rgba(200,200,200,0.8);
+                 -webkit-transition: all 0.5s ease;
+                 -moz-transition: all 0.5s ease;
+                 -ms-transition: all 0.5s ease;
+                 -o-transition: all 0.5s ease;
+                 transition: all 0.5s ease;
+                 opacity:1;
+             }
+
+             #bar {
+                 position:absolute;
+                 top:0px;
+                 left:0px;
+                 width:20px;
+                 height:20px;
+                 margin:auto auto auto auto;
+                 border-radius:11px;
+                 border:2px solid rgba(30,30,30,0.05);
+                 background: rgb(0, 173, 246); /* Old browsers */
+                 box-shadow: 2px 0px 4px rgba(0,0,0,0.4);
+             }
+
+             #border {
+                 position:absolute;
+                 top:10px;
+                 left:10px;
+                 width:500px;
+                 height:23px;
+                 margin:auto auto auto auto;
+                 box-shadow: 0px 0px 4px rgba(0,0,0,0.2);
+                 border-radius:10px;
+             }
+
+             #text {
+                 position:absolute;
+                 top:8px;
+                 left:530px;
+                 width:30px;
+                 height:50px;
+                 margin:auto auto auto auto;
+                 font-size:22px;
+                 color: #000000;
+             }
+
+             div.outerBorder {
+                 position:relative;
+                 top:400px;
+                 width:600px;
+                 height:44px;
+                 margin:auto auto auto auto;
+                 border:8px solid rgba(0,0,0,0.1);
+                 background: rgb(252,252,252); /* Old browsers */
+                 background: -moz-linear-gradient(top,  rgba(252,252,252,1) 0%, rgba(237,237,237,1) 100%); /* FF3.6+ */
+                 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(252,252,252,1)), color-stop(100%,rgba(237,237,237,1))); /* Chrome,Safari4+ */
+                 background: -webkit-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Chrome10+,Safari5.1+ */
+                 background: -o-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* Opera 11.10+ */
+                 background: -ms-linear-gradient(top,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* IE10+ */
+                 background: linear-gradient(to bottom,  rgba(252,252,252,1) 0%,rgba(237,237,237,1) 100%); /* W3C */
+                 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ededed',GradientType=0 ); /* IE6-9 */
+                 border-radius:72px;
+                 box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+             }
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+            <div id="loadingBar">
+              <div class="outerBorder">
+                <div id="text">0%</div>
+                <div id="border">
+                  <div id="bar"></div>
+                </div>
+              </div>
+            </div>
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "font": {"color": "white"}, "id": "Leonard Cohen", "label": "Leonard Cohen", "shape": "dot", "size": 12, "title": "Leonard Cohen"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Paul Auster", "label": "Paul Auster", "shape": "dot", "size": 20, "title": "Paul Auster"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Margaret Atwood", "label": "Margaret Atwood", "shape": "dot", "size": 12, "title": "Margaret Atwood"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jean-Michel Maulpoix", "label": "Jean-Michel Maulpoix", "shape": "dot", "size": 12, "title": "Jean-Michel Maulpoix"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "St\u00e9phane Mallarm\u00e9", "label": "St\u00e9phane Mallarm\u00e9", "shape": "dot", "size": 20, "title": "St\u00e9phane Mallarm\u00e9"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Shimon Peres", "label": "Shimon Peres", "shape": "dot", "size": 12, "title": "Shimon Peres"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Antoine de Rivarol", "label": "Antoine de Rivarol", "shape": "dot", "size": 26, "title": "Antoine de Rivarol"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Arthur de Gobineau", "label": "Arthur de Gobineau", "shape": "dot", "size": 16, "title": "Arthur de Gobineau"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Charles Maurras", "label": "Charles Maurras", "shape": "dot", "size": 14, "title": "Charles Maurras"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Michel Houellebecq", "label": "Michel Houellebecq", "shape": "dot", "size": 14, "title": "Michel Houellebecq"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Pierre Boutang", "label": "Pierre Boutang", "shape": "dot", "size": 12, "title": "Pierre Boutang"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Charles de Gaulle", "label": "Charles de Gaulle", "shape": "dot", "size": 14, "title": "Charles de Gaulle"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Fran\u00e7ois-Ren\u00e9 de Chateaubriand", "label": "Fran\u00e7ois-Ren\u00e9 de Chateaubriand", "shape": "dot", "size": 14, "title": "Fran\u00e7ois-Ren\u00e9 de Chateaubriand"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Julius Evola", "label": "Julius Evola", "shape": "dot", "size": 18, "title": "Julius Evola"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "L\u00e9on Bloy", "label": "L\u00e9on Bloy", "shape": "dot", "size": 12, "title": "L\u00e9on Bloy"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jack Kerouac", "label": "Jack Kerouac", "shape": "dot", "size": 12, "title": "Jack Kerouac"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "James Joyce", "label": "James Joyce", "shape": "dot", "size": 18, "title": "James Joyce"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Filippo Tommaso Marinetti", "label": "Filippo Tommaso Marinetti", "shape": "dot", "size": 72, "title": "Filippo Tommaso Marinetti"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Robert Desnos", "label": "Robert Desnos", "shape": "dot", "size": 64, "title": "Robert Desnos"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Marcel Proust", "label": "Marcel Proust", "shape": "dot", "size": 98, "title": "Marcel Proust"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Paul Val\u00e9ry", "label": "Paul Val\u00e9ry", "shape": "dot", "size": 20, "title": "Paul Val\u00e9ry"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Marcel Duchamp", "label": "Marcel Duchamp", "shape": "dot", "size": 72, "title": "Marcel Duchamp"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Paul D\u00e9roul\u00e8de", "label": "Paul D\u00e9roul\u00e8de", "shape": "dot", "size": 26, "title": "Paul D\u00e9roul\u00e8de"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Tristan Tzara", "label": "Tristan Tzara", "shape": "dot", "size": 18, "title": "Tristan Tzara"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Francis Picabia", "label": "Francis Picabia", "shape": "dot", "size": 18, "title": "Francis Picabia"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Blaise Cendrars", "label": "Blaise Cendrars", "shape": "dot", "size": 18, "title": "Blaise Cendrars"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Samuel Beckett", "label": "Samuel Beckett", "shape": "dot", "size": 16, "title": "Samuel Beckett"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Antonin Artaud", "label": "Antonin Artaud", "shape": "dot", "size": 18, "title": "Antonin Artaud"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Paul \u00c9luard", "label": "Paul \u00c9luard", "shape": "dot", "size": 18, "title": "Paul \u00c9luard"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Alfred Jarry", "label": "Alfred Jarry", "shape": "dot", "size": 18, "title": "Alfred Jarry"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Marc Chagall", "label": "Marc Chagall", "shape": "dot", "size": 16, "title": "Marc Chagall"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Max Ernst", "label": "Max Ernst", "shape": "dot", "size": 18, "title": "Max Ernst"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Robert Brasillach", "label": "Robert Brasillach", "shape": "dot", "size": 14, "title": "Robert Brasillach"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Maurice Maeterlinck", "label": "Maurice Maeterlinck", "shape": "dot", "size": 16, "title": "Maurice Maeterlinck"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Ernest Hemingway", "label": "Ernest Hemingway", "shape": "dot", "size": 18, "title": "Ernest Hemingway"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Max Jacob", "label": "Max Jacob", "shape": "dot", "size": 16, "title": "Max Jacob"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jean Arp", "label": "Jean Arp", "shape": "dot", "size": 18, "title": "Jean Arp"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Rainer Maria Rilke", "label": "Rainer Maria Rilke", "shape": "dot", "size": 16, "title": "Rainer Maria Rilke"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Guillaume Apollinaire", "label": "Guillaume Apollinaire", "shape": "dot", "size": 18, "title": "Guillaume Apollinaire"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jean Cocteau", "label": "Jean Cocteau", "shape": "dot", "size": 16, "title": "Jean Cocteau"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Karel \u010capek", "label": "Karel \u010capek", "shape": "dot", "size": 12, "title": "Karel \u010capek"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Edgar Degas", "label": "Edgar Degas", "shape": "dot", "size": 16, "title": "Edgar Degas"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "\u00c9mile Zola", "label": "\u00c9mile Zola", "shape": "dot", "size": 14, "title": "\u00c9mile Zola"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "August Strindberg", "label": "August Strindberg", "shape": "dot", "size": 16, "title": "August Strindberg"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Andr\u00e9 Breton", "label": "Andr\u00e9 Breton", "shape": "dot", "size": 18, "title": "Andr\u00e9 Breton"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Michel Leiris", "label": "Michel Leiris", "shape": "dot", "size": 12, "title": "Michel Leiris"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Louis Aragon", "label": "Louis Aragon", "shape": "dot", "size": 14, "title": "Louis Aragon"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Dora Maar", "label": "Dora Maar", "shape": "dot", "size": 12, "title": "Dora Maar"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Ren\u00e9 Daumal", "label": "Ren\u00e9 Daumal", "shape": "dot", "size": 12, "title": "Ren\u00e9 Daumal"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jacques Pr\u00e9vert", "label": "Jacques Pr\u00e9vert", "shape": "dot", "size": 12, "title": "Jacques Pr\u00e9vert"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Julien Gracq", "label": "Julien Gracq", "shape": "dot", "size": 14, "title": "Julien Gracq"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Francis Ponge", "label": "Francis Ponge", "shape": "dot", "size": 12, "title": "Francis Ponge"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "L\u00e9o Malet", "label": "L\u00e9o Malet", "shape": "dot", "size": 12, "title": "L\u00e9o Malet"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Roger Caillois", "label": "Roger Caillois", "shape": "dot", "size": 12, "title": "Roger Caillois"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Philippe Soupault", "label": "Philippe Soupault", "shape": "dot", "size": 14, "title": "Philippe Soupault"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Arthur Rimbaud", "label": "Arthur Rimbaud", "shape": "dot", "size": 12, "title": "Arthur Rimbaud"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Charles Baudelaire", "label": "Charles Baudelaire", "shape": "dot", "size": 16, "title": "Charles Baudelaire"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Raymond Queneau", "label": "Raymond Queneau", "shape": "dot", "size": 12, "title": "Raymond Queneau"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Pierre Reverdy", "label": "Pierre Reverdy", "shape": "dot", "size": 14, "title": "Pierre Reverdy"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Louise Portal", "label": "Louise Portal", "shape": "dot", "size": 12, "title": "Louise Portal"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Viggo Mortensen", "label": "Viggo Mortensen", "shape": "dot", "size": 12, "title": "Viggo Mortensen"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Christine de Pizan", "label": "Christine de Pizan", "shape": "dot", "size": 12, "title": "Christine de Pizan"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Guillaume de Machaut", "label": "Guillaume de Machaut", "shape": "dot", "size": 14, "title": "Guillaume de Machaut"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Chr\u00e9tien de Troyes", "label": "Chr\u00e9tien de Troyes", "shape": "dot", "size": 12, "title": "Chr\u00e9tien de Troyes"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Paul Morand", "label": "Paul Morand", "shape": "dot", "size": 12, "title": "Paul Morand"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Elsa Triolet", "label": "Elsa Triolet", "shape": "dot", "size": 12, "title": "Elsa Triolet"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Andr\u00e9 Pieyre de Mandiargues", "label": "Andr\u00e9 Pieyre de Mandiargues", "shape": "dot", "size": 12, "title": "Andr\u00e9 Pieyre de Mandiargues"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Anatole France", "label": "Anatole France", "shape": "dot", "size": 14, "title": "Anatole France"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jean Lorrain", "label": "Jean Lorrain", "shape": "dot", "size": 12, "title": "Jean Lorrain"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Henri Barbusse", "label": "Henri Barbusse", "shape": "dot", "size": 12, "title": "Henri Barbusse"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Maurice Genevoix", "label": "Maurice Genevoix", "shape": "dot", "size": 12, "title": "Maurice Genevoix"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Robert de Montesquiou", "label": "Robert de Montesquiou", "shape": "dot", "size": 12, "title": "Robert de Montesquiou"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Tahar Ben Jelloun", "label": "Tahar Ben Jelloun", "shape": "dot", "size": 12, "title": "Tahar Ben Jelloun"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Georges Duhamel", "label": "Georges Duhamel", "shape": "dot", "size": 12, "title": "Georges Duhamel"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Jacques Laurent", "label": "Jacques Laurent", "shape": "dot", "size": 12, "title": "Jacques Laurent"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Louis Pergaud", "label": "Louis Pergaud", "shape": "dot", "size": 12, "title": "Louis Pergaud"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Herv\u00e9 Le Tellier", "label": "Herv\u00e9 Le Tellier", "shape": "dot", "size": 12, "title": "Herv\u00e9 Le Tellier"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "\u00c9ric Vuillard", "label": "\u00c9ric Vuillard", "shape": "dot", "size": 12, "title": "\u00c9ric Vuillard"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Ren\u00e9 Maran", "label": "Ren\u00e9 Maran", "shape": "dot", "size": 12, "title": "Ren\u00e9 Maran"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "B\u00e9atrix Beck", "label": "B\u00e9atrix Beck", "shape": "dot", "size": 12, "title": "B\u00e9atrix Beck"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Philippe L\u00e9otard", "label": "Philippe L\u00e9otard", "shape": "dot", "size": 18, "title": "Philippe L\u00e9otard"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Michel Deville", "label": "Michel Deville", "shape": "dot", "size": 12, "title": "Michel Deville"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "L\u00e9o Ferr\u00e9", "label": "L\u00e9o Ferr\u00e9", "shape": "dot", "size": 12, "title": "L\u00e9o Ferr\u00e9"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Richard Bohringer", "label": "Richard Bohringer", "shape": "dot", "size": 12, "title": "Richard Bohringer"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Alphonse de Lamartine", "label": "Alphonse de Lamartine", "shape": "dot", "size": 48, "title": "Alphonse de Lamartine"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Th\u00e9ophile Gautier", "label": "Th\u00e9ophile Gautier", "shape": "dot", "size": 12, "title": "Th\u00e9ophile Gautier"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Mikha\u00efl Lermontov", "label": "Mikha\u00efl Lermontov", "shape": "dot", "size": 12, "title": "Mikha\u00efl Lermontov"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Paul Verlaine", "label": "Paul Verlaine", "shape": "dot", "size": 14, "title": "Paul Verlaine"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Fr\u00e9d\u00e9ric Mistral", "label": "Fr\u00e9d\u00e9ric Mistral", "shape": "dot", "size": 12, "title": "Fr\u00e9d\u00e9ric Mistral"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Victor Hugo", "label": "Victor Hugo", "shape": "dot", "size": 14, "title": "Victor Hugo"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "G\u00e9rard de Nerval", "label": "G\u00e9rard de Nerval", "shape": "dot", "size": 12, "title": "G\u00e9rard de Nerval"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Daniel-Rops", "label": "Daniel-Rops", "shape": "dot", "size": 12, "title": "Daniel-Rops"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Aloysius Bertrand", "label": "Aloysius Bertrand", "shape": "dot", "size": 12, "title": "Aloysius Bertrand"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Friedrich H\u00f6lderlin", "label": "Friedrich H\u00f6lderlin", "shape": "dot", "size": 12, "title": "Friedrich H\u00f6lderlin"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Voltaire", "label": "Voltaire", "shape": "dot", "size": 12, "title": "Voltaire"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Edgar Quinet", "label": "Edgar Quinet", "shape": "dot", "size": 12, "title": "Edgar Quinet"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Alfred de Musset", "label": "Alfred de Musset", "shape": "dot", "size": 12, "title": "Alfred de Musset"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Alfred de Vigny", "label": "Alfred de Vigny", "shape": "dot", "size": 12, "title": "Alfred de Vigny"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Giacomo Leopardi", "label": "Giacomo Leopardi", "shape": "dot", "size": 12, "title": "Giacomo Leopardi"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Charles Nodier", "label": "Charles Nodier", "shape": "dot", "size": 12, "title": "Charles Nodier"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Heinrich Heine", "label": "Heinrich Heine", "shape": "dot", "size": 12, "title": "Heinrich Heine"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Alessandro Manzoni", "label": "Alessandro Manzoni", "shape": "dot", "size": 12, "title": "Alessandro Manzoni"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Tristan Corbi\u00e8re", "label": "Tristan Corbi\u00e8re", "shape": "dot", "size": 14, "title": "Tristan Corbi\u00e8re"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Alphonse Allais", "label": "Alphonse Allais", "shape": "dot", "size": 12, "title": "Alphonse Allais"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Marie Laurencin", "label": "Marie Laurencin", "shape": "dot", "size": 12, "title": "Marie Laurencin"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Alejandro Jodorowsky", "label": "Alejandro Jodorowsky", "shape": "dot", "size": 12, "title": "Alejandro Jodorowsky"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Roland Topor", "label": "Roland Topor", "shape": "dot", "size": 14, "title": "Roland Topor"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Fernando Arrabal", "label": "Fernando Arrabal", "shape": "dot", "size": 12, "title": "Fernando Arrabal"}, {"color": "#97c2fc", "font": {"color": "white"}, "id": "Abel Bonnard", "label": "Abel Bonnard", "shape": "dot", "size": 12, "title": "Abel Bonnard"}]);
+                  edges = new vis.DataSet([{"from": "Leonard Cohen", "to": "Paul Auster"}, {"from": "Margaret Atwood", "to": "Paul Auster"}, {"from": "Jean-Michel Maulpoix", "to": "Paul Auster"}, {"from": "Paul Auster", "to": "St\u00e9phane Mallarm\u00e9"}, {"from": "Paul Auster", "to": "Shimon Peres"}, {"from": "Antoine de Rivarol", "to": "Arthur de Gobineau"}, {"from": "Antoine de Rivarol", "to": "Charles Maurras"}, {"from": "Antoine de Rivarol", "to": "Michel Houellebecq"}, {"from": "Antoine de Rivarol", "to": "Pierre Boutang"}, {"from": "Antoine de Rivarol", "to": "Charles de Gaulle"}, {"from": "Antoine de Rivarol", "to": "Fran\u00e7ois-Ren\u00e9 de Chateaubriand"}, {"from": "Antoine de Rivarol", "to": "Julius Evola"}, {"from": "Antoine de Rivarol", "to": "L\u00e9on Bloy"}, {"from": "Jack Kerouac", "to": "James Joyce"}, {"from": "Filippo Tommaso Marinetti", "to": "Robert Desnos"}, {"from": "Filippo Tommaso Marinetti", "to": "Marcel Proust"}, {"from": "Filippo Tommaso Marinetti", "to": "Paul Val\u00e9ry"}, {"from": "Filippo Tommaso Marinetti", "to": "Marcel Duchamp"}, {"from": "Filippo Tommaso Marinetti", "to": "Paul D\u00e9roul\u00e8de"}, {"from": "Arthur de Gobineau", "to": "Filippo Tommaso Marinetti"}, {"from": "Filippo Tommaso Marinetti", "to": "Tristan Tzara"}, {"from": "Filippo Tommaso Marinetti", "to": "Francis Picabia"}, {"from": "Blaise Cendrars", "to": "Filippo Tommaso Marinetti"}, {"from": "Filippo Tommaso Marinetti", "to": "Samuel Beckett"}, {"from": "Antonin Artaud", "to": "Filippo Tommaso Marinetti"}, {"from": "Filippo Tommaso Marinetti", "to": "Paul \u00c9luard"}, {"from": "Alfred Jarry", "to": "Filippo Tommaso Marinetti"}, {"from": "Filippo Tommaso Marinetti", "to": "James Joyce"}, {"from": "Filippo Tommaso Marinetti", "to": "Marc Chagall"}, {"from": "Filippo Tommaso Marinetti", "to": "Max Ernst"}, {"from": "Filippo Tommaso Marinetti", "to": "Robert Brasillach"}, {"from": "Filippo Tommaso Marinetti", "to": "Maurice Maeterlinck"}, {"from": "Ernest Hemingway", "to": "Filippo Tommaso Marinetti"}, {"from": "Filippo Tommaso Marinetti", "to": "Max Jacob"}, {"from": "Filippo Tommaso Marinetti", "to": "Jean Arp"}, {"from": "Filippo Tommaso Marinetti", "to": "Rainer Maria Rilke"}, {"from": "Filippo Tommaso Marinetti", "to": "Guillaume Apollinaire"}, {"from": "Filippo Tommaso Marinetti", "to": "Jean Cocteau"}, {"from": "Filippo Tommaso Marinetti", "to": "Karel \u010capek"}, {"from": "Edgar Degas", "to": "Filippo Tommaso Marinetti"}, {"from": "Filippo Tommaso Marinetti", "to": "\u00c9mile Zola"}, {"from": "Filippo Tommaso Marinetti", "to": "Julius Evola"}, {"from": "Filippo Tommaso Marinetti", "to": "St\u00e9phane Mallarm\u00e9"}, {"from": "August Strindberg", "to": "Filippo Tommaso Marinetti"}, {"from": "Andr\u00e9 Breton", "to": "Filippo Tommaso Marinetti"}, {"from": "Marcel Duchamp", "to": "Robert Desnos"}, {"from": "Robert Desnos", "to": "Tristan Tzara"}, {"from": "Michel Leiris", "to": "Robert Desnos"}, {"from": "Louis Aragon", "to": "Robert Desnos"}, {"from": "Francis Picabia", "to": "Robert Desnos"}, {"from": "Dora Maar", "to": "Robert Desnos"}, {"from": "Ren\u00e9 Daumal", "to": "Robert Desnos"}, {"from": "Antonin Artaud", "to": "Robert Desnos"}, {"from": "Paul \u00c9luard", "to": "Robert Desnos"}, {"from": "Alfred Jarry", "to": "Robert Desnos"}, {"from": "Max Ernst", "to": "Robert Desnos"}, {"from": "Jacques Pr\u00e9vert", "to": "Robert Desnos"}, {"from": "Julien Gracq", "to": "Robert Desnos"}, {"from": "Ernest Hemingway", "to": "Robert Desnos"}, {"from": "Francis Ponge", "to": "Robert Desnos"}, {"from": "Jean Arp", "to": "Robert Desnos"}, {"from": "L\u00e9o Malet", "to": "Robert Desnos"}, {"from": "Guillaume Apollinaire", "to": "Robert Desnos"}, {"from": "Robert Desnos", "to": "Roger Caillois"}, {"from": "Philippe Soupault", "to": "Robert Desnos"}, {"from": "Arthur Rimbaud", "to": "Robert Desnos"}, {"from": "Andr\u00e9 Breton", "to": "Robert Desnos"}, {"from": "Charles Baudelaire", "to": "Robert Desnos"}, {"from": "Raymond Queneau", "to": "Robert Desnos"}, {"from": "Pierre Reverdy", "to": "Robert Desnos"}, {"from": "Louise Portal", "to": "Viggo Mortensen"}, {"from": "Christine de Pizan", "to": "Guillaume de Machaut"}, {"from": "Chr\u00e9tien de Troyes", "to": "Guillaume de Machaut"}, {"from": "Marcel Proust", "to": "Robert Desnos"}, {"from": "Marcel Proust", "to": "Paul Val\u00e9ry"}, {"from": "Marcel Duchamp", "to": "Marcel Proust"}, {"from": "Marcel Proust", "to": "Tristan Tzara"}, {"from": "Marcel Proust", "to": "Paul Morand"}, {"from": "Elsa Triolet", "to": "Marcel Proust"}, {"from": "Francis Picabia", "to": "Marcel Proust"}, {"from": "Blaise Cendrars", "to": "Marcel Proust"}, {"from": "Andr\u00e9 Pieyre de Mandiargues", "to": "Marcel Proust"}, {"from": "Marcel Proust", "to": "Samuel Beckett"}, {"from": "Antonin Artaud", "to": "Marcel Proust"}, {"from": "Anatole France", "to": "Marcel Proust"}, {"from": "Jean Lorrain", "to": "Marcel Proust"}, {"from": "Marcel Proust", "to": "Michel Houellebecq"}, {"from": "Marcel Proust", "to": "Paul \u00c9luard"}, {"from": "Alfred Jarry", "to": "Marcel Proust"}, {"from": "James Joyce", "to": "Marcel Proust"}, {"from": "Marc Chagall", "to": "Marcel Proust"}, {"from": "Marcel Proust", "to": "Max Ernst"}, {"from": "Julien Gracq", "to": "Marcel Proust"}, {"from": "Henri Barbusse", "to": "Marcel Proust"}, {"from": "Marcel Proust", "to": "Maurice Maeterlinck"}, {"from": "Ernest Hemingway", "to": "Marcel Proust"}, {"from": "Marcel Proust", "to": "Maurice Genevoix"}, {"from": "Marcel Proust", "to": "Max Jacob"}, {"from": "Jean Arp", "to": "Marcel Proust"}, {"from": "Marcel Proust", "to": "Rainer Maria Rilke"}, {"from": "Marcel Proust", "to": "Robert de Montesquiou"}, {"from": "Marcel Proust", "to": "Tahar Ben Jelloun"}, {"from": "Guillaume Apollinaire", "to": "Marcel Proust"}, {"from": "Jean Cocteau", "to": "Marcel Proust"}, {"from": "Georges Duhamel", "to": "Marcel Proust"}, {"from": "Jacques Laurent", "to": "Marcel Proust"}, {"from": "Edgar Degas", "to": "Marcel Proust"}, {"from": "Marcel Proust", "to": "\u00c9mile Zola"}, {"from": "Louis Pergaud", "to": "Marcel Proust"}, {"from": "Marcel Proust", "to": "St\u00e9phane Mallarm\u00e9"}, {"from": "Herv\u00e9 Le Tellier", "to": "Marcel Proust"}, {"from": "Marcel Proust", "to": "\u00c9ric Vuillard"}, {"from": "August Strindberg", "to": "Marcel Proust"}, {"from": "Andr\u00e9 Breton", "to": "Marcel Proust"}, {"from": "Marcel Proust", "to": "Ren\u00e9 Maran"}, {"from": "B\u00e9atrix Beck", "to": "Marcel Proust"}, {"from": "Blaise Cendrars", "to": "Philippe L\u00e9otard"}, {"from": "Michel Deville", "to": "Philippe L\u00e9otard"}, {"from": "L\u00e9o Ferr\u00e9", "to": "Philippe L\u00e9otard"}, {"from": "Philippe L\u00e9otard", "to": "Richard Bohringer"}, {"from": "Anatole France", "to": "Paul Val\u00e9ry"}, {"from": "Paul Val\u00e9ry", "to": "St\u00e9phane Mallarm\u00e9"}, {"from": "Alphonse de Lamartine", "to": "Th\u00e9ophile Gautier"}, {"from": "Alphonse de Lamartine", "to": "Mikha\u00efl Lermontov"}, {"from": "Alphonse de Lamartine", "to": "Paul Verlaine"}, {"from": "Alphonse de Lamartine", "to": "Fr\u00e9d\u00e9ric Mistral"}, {"from": "Alphonse de Lamartine", "to": "Victor Hugo"}, {"from": "Alphonse de Lamartine", "to": "G\u00e9rard de Nerval"}, {"from": "Alphonse de Lamartine", "to": "Daniel-Rops"}, {"from": "Aloysius Bertrand", "to": "Alphonse de Lamartine"}, {"from": "Alphonse de Lamartine", "to": "Friedrich H\u00f6lderlin"}, {"from": "Alphonse de Lamartine", "to": "Voltaire"}, {"from": "Alphonse de Lamartine", "to": "Edgar Quinet"}, {"from": "Alfred de Musset", "to": "Alphonse de Lamartine"}, {"from": "Alfred de Vigny", "to": "Alphonse de Lamartine"}, {"from": "Alphonse de Lamartine", "to": "Giacomo Leopardi"}, {"from": "Alphonse de Lamartine", "to": "Charles Nodier"}, {"from": "Alphonse de Lamartine", "to": "Fran\u00e7ois-Ren\u00e9 de Chateaubriand"}, {"from": "Alphonse de Lamartine", "to": "Heinrich Heine"}, {"from": "Alessandro Manzoni", "to": "Alphonse de Lamartine"}, {"from": "Alphonse de Lamartine", "to": "Charles Baudelaire"}, {"from": "Paul Verlaine", "to": "Tristan Corbi\u00e8re"}, {"from": "Charles Baudelaire", "to": "Tristan Corbi\u00e8re"}, {"from": "Marcel Duchamp", "to": "Paul Val\u00e9ry"}, {"from": "Marcel Duchamp", "to": "Tristan Tzara"}, {"from": "Louis Aragon", "to": "Marcel Duchamp"}, {"from": "Francis Picabia", "to": "Marcel Duchamp"}, {"from": "Blaise Cendrars", "to": "Marcel Duchamp"}, {"from": "Marcel Duchamp", "to": "Samuel Beckett"}, {"from": "Antonin Artaud", "to": "Marcel Duchamp"}, {"from": "Marcel Duchamp", "to": "Paul \u00c9luard"}, {"from": "Alfred Jarry", "to": "Marcel Duchamp"}, {"from": "James Joyce", "to": "Marcel Duchamp"}, {"from": "Marc Chagall", "to": "Marcel Duchamp"}, {"from": "Marcel Duchamp", "to": "Max Ernst"}, {"from": "Marcel Duchamp", "to": "Maurice Maeterlinck"}, {"from": "Ernest Hemingway", "to": "Marcel Duchamp"}, {"from": "Marcel Duchamp", "to": "Max Jacob"}, {"from": "Jean Arp", "to": "Marcel Duchamp"}, {"from": "Marcel Duchamp", "to": "Rainer Maria Rilke"}, {"from": "Guillaume Apollinaire", "to": "Marcel Duchamp"}, {"from": "Jean Cocteau", "to": "Marcel Duchamp"}, {"from": "Alphonse Allais", "to": "Marcel Duchamp"}, {"from": "Edgar Degas", "to": "Marcel Duchamp"}, {"from": "Marcel Duchamp", "to": "Marie Laurencin"}, {"from": "Julius Evola", "to": "Marcel Duchamp"}, {"from": "Marcel Duchamp", "to": "St\u00e9phane Mallarm\u00e9"}, {"from": "Marcel Duchamp", "to": "Philippe Soupault"}, {"from": "August Strindberg", "to": "Marcel Duchamp"}, {"from": "Andr\u00e9 Breton", "to": "Marcel Duchamp"}, {"from": "Marcel Duchamp", "to": "Pierre Reverdy"}, {"from": "Alejandro Jodorowsky", "to": "Roland Topor"}, {"from": "Fernando Arrabal", "to": "Roland Topor"}, {"from": "Arthur de Gobineau", "to": "Paul D\u00e9roul\u00e8de"}, {"from": "Charles Maurras", "to": "Paul D\u00e9roul\u00e8de"}, {"from": "Paul D\u00e9roul\u00e8de", "to": "Victor Hugo"}, {"from": "Charles de Gaulle", "to": "Paul D\u00e9roul\u00e8de"}, {"from": "Abel Bonnard", "to": "Paul D\u00e9roul\u00e8de"}, {"from": "Paul D\u00e9roul\u00e8de", "to": "Robert Brasillach"}, {"from": "Julius Evola", "to": "Paul D\u00e9roul\u00e8de"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+                      network.on("stabilizationProgress", function(params) {
+                          document.getElementById('loadingBar').removeAttribute("style");
+                          var maxWidth = 496;
+                          var minWidth = 20;
+                          var widthFactor = params.iterations/params.total;
+                          var width = Math.max(minWidth,maxWidth * widthFactor);
+                          document.getElementById('bar').style.width = width + 'px';
+                          document.getElementById('text').innerHTML = Math.round(widthFactor*100) + '%';
+                      });
+                      network.once("stabilizationIterationsDone", function() {
+                          document.getElementById('text').innerHTML = '100%';
+                          document.getElementById('bar').style.width = '496px';
+                          document.getElementById('loadingBar').style.opacity = 0;
+                          // really clean the dom element
+                          setTimeout(function () {document.getElementById('loadingBar').style.display = 'none';}, 500);
+                      });
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
