@@ -6,7 +6,8 @@
         "date_death":"2024-04-30T00:00:00Z",
         "works":"Seul dans le noir, Léviathan, Trilogie new-yorkaise, Le Livre des illusions",
         "movements":"",
-        "popularity":316546
+        "popularity":316546,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q203952",
@@ -15,7 +16,8 @@
         "date_death":"1801-04-11T00:00:00Z",
         "works":"De l'universalité de la langue française",
         "movements":"",
-        "popularity":23076
+        "popularity":23076,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q160534",
@@ -24,7 +26,8 @@
         "date_death":"1969-10-21T00:00:00Z",
         "works":"Les Clochards célestes, Sur la route, Anges de la Désolation, Big Sur, Les Souterrains",
         "movements":"Beat Generation",
-        "popularity":88984
+        "popularity":88984,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q216582",
@@ -33,7 +36,8 @@
         "date_death":"1944-12-02T00:00:00Z",
         "works":"",
         "movements":"futurisme",
-        "popularity":14713
+        "popularity":14713,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q170095",
@@ -42,7 +46,8 @@
         "date_death":"1945-06-08T00:00:00Z",
         "works":"",
         "movements":"surréalisme",
-        "popularity":75804
+        "popularity":75804,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3059438",
@@ -51,7 +56,8 @@
         "date_death":"1951-05-22T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":14255
+        "popularity":14255,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3105220",
@@ -60,7 +66,8 @@
         "date_death":"1974-01-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":25949
+        "popularity":25949,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q510227",
@@ -69,7 +76,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":11281
+        "popularity":11281,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q200580",
@@ -78,7 +86,8 @@
         "date_death":"1377-01-01T00:00:00Z",
         "works":"Le livre du voir dit, Le remede de Fortune, Œuvres poétiques de Guillaume de Machaut, Le jugement du roi de Navarre, Hoquet David, Le jugement dou roy de Behaigne, Le dit du lyon, Le confort d'ami, La fontaine amoureuse, La prise d'Alexandrie, Le dit de la harpe, Le dit du vergier, Le dit de la marguerite, Le dit de la fleur de lis et de la marguerite, Le dit de la rose, Le dit du cerf blanc, Le dit de l'alerion, Le dit du cheval, La louange des dames, Messe de Notre Dame",
         "movements":"musique classique, musique médiévale",
-        "popularity":24358
+        "popularity":24358,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q918784",
@@ -87,7 +96,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":348714
+        "popularity":348714,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q7199",
@@ -96,7 +106,8 @@
         "date_death":"1922-11-18T00:00:00Z",
         "works":"À l'ombre des jeunes filles en fleurs, Jean Santeuil, À la recherche du temps perdu",
         "movements":"",
-        "popularity":247683
+        "popularity":247683,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q155493",
@@ -105,7 +116,8 @@
         "date_death":"2001-08-25T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":102534
+        "popularity":102534,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q200639",
@@ -114,7 +126,8 @@
         "date_death":"1945-07-20T00:00:00Z",
         "works":"La Crise de l’esprit, Les principes d’an-archie pure et appliquée",
         "movements":"",
-        "popularity":105808
+        "popularity":105808,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q188697",
@@ -123,7 +136,8 @@
         "date_death":"1869-02-28T00:00:00Z",
         "works":"Le Vallon, Histoire des Girondins, Nouvelles Méditations poétiques, Méditations poétiques, Œuvres complètes de Lamartine (1860)\/Tome 1\/L’Isolement, Recueillements poétiques, Pensée des Morts, Le Lac, La Mort de Socrate, Graziella, Voyage en Orient",
         "movements":"romantisme",
-        "popularity":183083
+        "popularity":183083,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q316536",
@@ -132,7 +146,8 @@
         "date_death":"1875-03-01T00:00:00Z",
         "works":"",
         "movements":"symbolisme",
-        "popularity":22834
+        "popularity":22834,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q955432",
@@ -141,7 +156,8 @@
         "date_death":"1996-12-14T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":12702
+        "popularity":12702,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q5912",
@@ -150,7 +166,8 @@
         "date_death":"1968-10-02T00:00:00Z",
         "works":"L.H.O.O.Q., Étant donnés, Nu descendant un escalier",
         "movements":"Dada, surréalisme, art conceptuel",
-        "popularity":81625
+        "popularity":81625,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q561835",
@@ -159,7 +176,8 @@
         "date_death":"2017-04-06T00:00:00Z",
         "works":"V comme Vietnam",
         "movements":"",
-        "popularity":12013
+        "popularity":12013,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q550806",
@@ -168,7 +186,8 @@
         "date_death":"1997-04-16T00:00:00Z",
         "works":"Le Locataire chimérique",
         "movements":"",
-        "popularity":33733
+        "popularity":33733,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1094964",
@@ -177,7 +196,8 @@
         "date_death":"1914-01-30T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":73222
+        "popularity":73222,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1804",
@@ -186,7 +206,8 @@
         "date_death":"1997-11-24T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":261068
+        "popularity":261068,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2474670",
@@ -195,7 +216,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":14887
+        "popularity":14887,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q264918",
@@ -204,7 +226,8 @@
         "date_death":"1882-10-13T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":38785
+        "popularity":38785,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3289359",
@@ -213,7 +236,8 @@
         "date_death":"1936-02-03T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":14549
+        "popularity":14549,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q16409",
@@ -222,7 +246,8 @@
         "date_death":"1963-12-24T00:00:00Z",
         "works":"",
         "movements":"Dada, surréalisme",
-        "popularity":32191
+        "popularity":32191,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q123382",
@@ -231,7 +256,8 @@
         "date_death":"1998-05-05T00:00:00Z",
         "works":"De l'Unité transcendante des religions, Forme et substance dans les religions, Comprendre l'Islam, Logique et transcendance, La Transfiguration de l’Homme (1995).",
         "movements":"philosophie éternelle, pérennialisme",
-        "popularity":10163
+        "popularity":10163,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2633593",
@@ -240,7 +266,8 @@
         "date_death":"1962-04-16T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":19997
+        "popularity":19997,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q108574419",
@@ -249,7 +276,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":172168
+        "popularity":172168,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q462591",
@@ -258,7 +286,8 @@
         "date_death":"1990-09-30T00:00:00Z",
         "works":"",
         "movements":"surréalisme",
-        "popularity":31947
+        "popularity":31947,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q183713",
@@ -267,7 +296,8 @@
         "date_death":"1872-10-23T00:00:00Z",
         "works":"",
         "movements":"romantisme, Parnasse",
-        "popularity":135704
+        "popularity":135704,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2773178",
@@ -276,7 +306,8 @@
         "date_death":"1925-07-25T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":12416
+        "popularity":12416,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3387616",
@@ -285,7 +316,8 @@
         "date_death":"1645-01-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11402
+        "popularity":11402,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q462644",
@@ -294,7 +326,8 @@
         "date_death":"1626-09-25T00:00:00Z",
         "works":"Les Amours tragiques de Pyrame et Thisbé, La Maison de Sylvie",
         "movements":"littérature baroque",
-        "popularity":15411
+        "popularity":15411,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q272",
@@ -303,7 +336,8 @@
         "date_death":"1976-07-23T00:00:00Z",
         "works":"Air indien, Magie noire, Hécate et ses chiens, Flèche d'Orient, L'Homme pressé",
         "movements":"les Hussards",
-        "popularity":55662
+        "popularity":55662,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q274319",
@@ -312,7 +346,8 @@
         "date_death":"2011-02-03T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":48063
+        "popularity":48063,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2523100",
@@ -321,7 +356,8 @@
         "date_death":"1917-12-26T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":10402
+        "popularity":10402,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q462604",
@@ -330,7 +366,8 @@
         "date_death":"1919-05-21T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":20768
+        "popularity":20768,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q534905",
@@ -339,7 +376,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":17703
+        "popularity":17703,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3269230",
@@ -348,7 +386,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":36179
+        "popularity":36179,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q4128",
@@ -357,7 +396,8 @@
         "date_death":"1982-12-24T00:00:00Z",
         "works":"",
         "movements":"Dada, surréalisme",
-        "popularity":193431
+        "popularity":193431,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q4137",
@@ -366,7 +406,8 @@
         "date_death":"1970-06-16T00:00:00Z",
         "works":"Le premier accroc coûte deux cents francs",
         "movements":"",
-        "popularity":85701
+        "popularity":85701,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q234816",
@@ -375,7 +416,8 @@
         "date_death":"1431-01-01T00:00:00Z",
         "works":"Dédicace à la reine, L'oroyson Nostre Dame, L'oroyson Nostre Seigneur, Lais, Encore aultres balades, Autres balades, Les balades d'estrange façon, Les cent ballades d'amant et de dame, Les cent ballades, Rondeaux, Virelais, Les jeux a vendre, Le Livre des fais et bonnes meurs du sage roy Charles V, Le ditié de Jehanne d'Arc, Le Livre des trois vertus à l'enseignement des dames, L'avision du coq, Le debat de deux amans, Le dit de Poissy, proverbes moraux, Le dit de la rose, Les quinze joyes Nostre Dame, Le dit de la pastoure, Une epistre a Eustace Morel, L'avision Christine, Le livre du corps de policie, Le livre de prudence, Les sept psaumes allegorisés, Le Livre des épîtres du débat sur le Roman de la Rose, Le livre du duc des vrais amans, Les trois jugemens, Passion Isabeau, Les heures de contemplacion de la Passion, Les lamentacions sur les maux de la France, L'epistre de la prison de vie humaine, Complainte amoureuse (II), Complainte amoureuse (I), Le Chemin de longue étude, La Cité des dames, L'epistre Othea",
         "movements":"",
-        "popularity":75276
+        "popularity":75276,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q545423",
@@ -384,7 +426,8 @@
         "date_death":"1965-07-10T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":15100
+        "popularity":15100,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q705210",
@@ -393,7 +436,8 @@
         "date_death":"1896-02-26T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11123
+        "popularity":11123,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2959511",
@@ -402,7 +446,8 @@
         "date_death":"2024-07-26T00:00:00Z",
         "works":"L'Année de l'éveil, Lambeaux",
         "movements":"",
-        "popularity":34604
+        "popularity":34604,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q295548",
@@ -411,7 +456,8 @@
         "date_death":"1794-07-25T00:00:00Z",
         "works":"",
         "movements":"néo-classicisme",
-        "popularity":40455
+        "popularity":40455,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q379956",
@@ -420,7 +466,8 @@
         "date_death":"1972-09-21T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":67550
+        "popularity":67550,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q549230",
@@ -429,7 +476,8 @@
         "date_death":"1981-10-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":10492
+        "popularity":10492,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q708473",
@@ -438,7 +486,8 @@
         "date_death":"2007-07-28T00:00:00Z",
         "works":"",
         "movements":"lettrisme",
-        "popularity":12096
+        "popularity":12096,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q727056",
@@ -447,7 +496,8 @@
         "date_death":"1857-09-25T00:00:00Z",
         "works":"La Russie en 1839",
         "movements":"",
-        "popularity":18823
+        "popularity":18823,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q51107",
@@ -456,7 +506,8 @@
         "date_death":"1929-06-25T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":28107
+        "popularity":28107,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q312630",
@@ -465,7 +516,8 @@
         "date_death":"1891-03-13T00:00:00Z",
         "works":"",
         "movements":"romantisme",
-        "popularity":27068
+        "popularity":27068,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q989",
@@ -474,7 +526,8 @@
         "date_death":"2005-04-02T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":274806
+        "popularity":274806,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q153905",
@@ -483,7 +536,8 @@
         "date_death":"1970-04-20T00:00:00Z",
         "works":"Grille de parole, Fugue de mort",
         "movements":"",
-        "popularity":23592
+        "popularity":23592,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q157321",
@@ -492,7 +546,8 @@
         "date_death":"1953-11-30T00:00:00Z",
         "works":"Parade amoureuse, Le Matador dans l'arène, La Corrida",
         "movements":"Dada, surréalisme, cubisme",
-        "popularity":42348
+        "popularity":42348,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q20750661",
@@ -501,7 +556,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":25075
+        "popularity":25075,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2627812",
@@ -510,7 +566,8 @@
         "date_death":"1920-09-06T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":12270
+        "popularity":12270,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q462649",
@@ -519,7 +576,8 @@
         "date_death":"2003-05-02T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":26199
+        "popularity":26199,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2856805",
@@ -528,7 +586,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":10753
+        "popularity":10753,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q982026",
@@ -537,7 +596,8 @@
         "date_death":"2024-03-28T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11691
+        "popularity":11691,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q49478",
@@ -546,7 +606,8 @@
         "date_death":"1763-02-11T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":164321
+        "popularity":164321,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q314987",
@@ -555,7 +616,8 @@
         "date_death":"1910-05-22T00:00:00Z",
         "works":"",
         "movements":"libre-pensée",
-        "popularity":40199
+        "popularity":40199,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q310913",
@@ -564,7 +626,8 @@
         "date_death":"2022-01-22T00:00:00Z",
         "works":"",
         "movements":"bouddhisme engagé",
-        "popularity":25822
+        "popularity":25822,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q379962",
@@ -573,7 +636,8 @@
         "date_death":"1989-10-28T00:00:00Z",
         "works":"Nedjma",
         "movements":"",
-        "popularity":62325
+        "popularity":62325,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q111747448",
@@ -582,7 +646,8 @@
         "date_death":"2022-10-21T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":108965
+        "popularity":108965,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2830346",
@@ -591,7 +656,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":39656
+        "popularity":39656,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q649487",
@@ -600,7 +666,8 @@
         "date_death":"2022-11-23T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":124416
+        "popularity":124416,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q60884",
@@ -609,7 +676,8 @@
         "date_death":"1992-12-17T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":59937
+        "popularity":59937,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q236161",
@@ -618,7 +686,8 @@
         "date_death":"1997-07-16T00:00:00Z",
         "works":"",
         "movements":"surréalisme",
-        "popularity":46563
+        "popularity":46563,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q952902",
@@ -627,7 +696,8 @@
         "date_death":"1984-11-23T00:00:00Z",
         "works":"L'Accordéoniste",
         "movements":"",
-        "popularity":15083
+        "popularity":15083,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q46599",
@@ -636,7 +706,8 @@
         "date_death":"1841-07-27T00:00:00Z",
         "works":"Un héros de notre temps",
         "movements":"romantisme",
-        "popularity":13163
+        "popularity":13163,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q188526",
@@ -645,7 +716,8 @@
         "date_death":"1941-08-31T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":21057
+        "popularity":21057,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1356852",
@@ -654,7 +726,8 @@
         "date_death":"1944-08-18T00:00:00Z",
         "works":"Gouverneurs de la rosée",
         "movements":"",
-        "popularity":14835
+        "popularity":14835,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1329154",
@@ -663,7 +736,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":17034
+        "popularity":17034,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q123080",
@@ -672,7 +746,8 @@
         "date_death":"1961-01-21T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":109253
+        "popularity":109253,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3371041",
@@ -681,7 +756,8 @@
         "date_death":"1918-11-30T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":10496
+        "popularity":10496,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q729065",
@@ -690,7 +766,8 @@
         "date_death":"1995-09-30T00:00:00Z",
         "works":"Juste la fin du monde",
         "movements":"",
-        "popularity":87184
+        "popularity":87184,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q599556",
@@ -699,7 +776,8 @@
         "date_death":"2023-02-16T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":18231
+        "popularity":18231,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q294100",
@@ -708,7 +786,8 @@
         "date_death":"1704-04-12T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":59146
+        "popularity":59146,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1127989",
@@ -717,7 +796,8 @@
         "date_death":"1992-06-22T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":18316
+        "popularity":18316,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1276",
@@ -726,7 +806,8 @@
         "date_death":"2016-11-07T00:00:00Z",
         "works":"Les Perdants magnifiques, The Future, Old Ideas, Hallelujah, Songs from a Room, Various Positions",
         "movements":"",
-        "popularity":214280
+        "popularity":214280,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q334983",
@@ -735,7 +816,8 @@
         "date_death":"1972-08-14T00:00:00Z",
         "works":"Les Hommes de bonne volonté, Knock ou le Triomphe de la médecine",
         "movements":"Unanimisme",
-        "popularity":42745
+        "popularity":42745,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q464382",
@@ -744,7 +826,8 @@
         "date_death":"1967-07-09T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":13930
+        "popularity":13930,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q469459",
@@ -753,7 +836,8 @@
         "date_death":"None",
         "works":"Le Dit de Tianyi",
         "movements":"",
-        "popularity":56703
+        "popularity":56703,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3081533",
@@ -762,7 +846,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":145928
+        "popularity":145928,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q334970",
@@ -771,7 +856,8 @@
         "date_death":"1905-10-03T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":31226
+        "popularity":31226,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q250321",
@@ -780,7 +866,8 @@
         "date_death":"1564-01-01T00:00:00Z",
         "works":"Poètes du XVIe siècle",
         "movements":"École de Lyon",
-        "popularity":11484
+        "popularity":11484,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q255132",
@@ -789,7 +876,8 @@
         "date_death":"1310-06-09T00:00:00Z",
         "works":"",
         "movements":"béguards et béguines",
-        "popularity":12315
+        "popularity":12315,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2706190",
@@ -798,7 +886,8 @@
         "date_death":"1977-12-06T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":13281
+        "popularity":13281,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3141517",
@@ -807,7 +896,8 @@
         "date_death":"1995-08-13T00:00:00Z",
         "works":"Le Cheval d'orgueil",
         "movements":"littérature prolétarienne",
-        "popularity":13006
+        "popularity":13006,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q755",
@@ -816,7 +906,8 @@
         "date_death":"1896-01-08T00:00:00Z",
         "works":"",
         "movements":"symbolisme",
-        "popularity":207701
+        "popularity":207701,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q34189",
@@ -825,7 +916,8 @@
         "date_death":"1973-09-23T00:00:00Z",
         "works":"Canto general, Résidence sur la terre, Arte de pájaros, Vingt poèmes d'amour et une chanson désespérée",
         "movements":"",
-        "popularity":89179
+        "popularity":89179,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3048",
@@ -834,7 +926,8 @@
         "date_death":"1952-11-16T00:00:00Z",
         "works":"Kiel et Tanger, Enquête sur la monarchie, L’Avenir de l’intelligence, Mes idées politiques, Anthinéa",
         "movements":"néo-classicisme, positivisme, royalisme",
-        "popularity":169494
+        "popularity":169494,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3484214",
@@ -843,7 +936,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":14621
+        "popularity":14621,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q9047",
@@ -852,7 +946,8 @@
         "date_death":"1716-11-14T00:00:00Z",
         "works":"Système nouveau de la nature, Nouveaux Essais sur l'entendement humain, calcul intégral, Essais de Théodicée, Cylindre cannelé de Leibniz, Discours de métaphysique, notation de Leibniz, Monadologie, calculus ratiocinator",
         "movements":"rationalisme",
-        "popularity":85943
+        "popularity":85943,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q462583",
@@ -861,7 +956,8 @@
         "date_death":"1991-12-13T00:00:00Z",
         "works":"La Motocyclette, La Marge",
         "movements":"surréalisme",
-        "popularity":11118
+        "popularity":11118,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q37327",
@@ -870,7 +966,8 @@
         "date_death":"1989-12-22T00:00:00Z",
         "works":"Malone meurt, Comment c'est, L'Innommable, Fin de partie, Molloy, Watt, La Dernière Bande, En attendant Godot, Murphy",
         "movements":"nouveau roman",
-        "popularity":106176
+        "popularity":106176,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q535188",
@@ -879,7 +976,8 @@
         "date_death":"1925-02-10T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":27242
+        "popularity":27242,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q223955",
@@ -888,7 +986,8 @@
         "date_death":"2008-04-17T00:00:00Z",
         "works":"",
         "movements":"négritude",
-        "popularity":154623
+        "popularity":154623,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1342944",
@@ -897,7 +996,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":175812
+        "popularity":175812,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q428334",
@@ -906,7 +1006,8 @@
         "date_death":"1925-01-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":10921
+        "popularity":10921,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q961147",
@@ -915,7 +1016,8 @@
         "date_death":"1944-05-21T00:00:00Z",
         "works":"La Grande Beuverie, Le Mont Analogue",
         "movements":"",
-        "popularity":14986
+        "popularity":14986,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1766736",
@@ -924,7 +1026,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":11333
+        "popularity":11333,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q16319085",
@@ -933,7 +1036,8 @@
         "date_death":"1968-10-23T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":60159
+        "popularity":60159,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q765228",
@@ -942,7 +1046,8 @@
         "date_death":"1977-03-07T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":18316
+        "popularity":18316,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q687",
@@ -951,7 +1056,8 @@
         "date_death":"1673-02-17T00:00:00Z",
         "works":"Pastorale comique, Le Médecin volant, Sganarelle ou le Cocu imaginaire, Le Bourgeois gentilhomme, Le Malade imaginaire, Psyché, Mélicerte, Les Fâcheux, Les Amants magnifiques, Le Sicilien ou l'Amour peintre, L'Avare, Les Fourberies de Scapin, Monsieur de Pourceaugnac, Le Mariage forcé, Le Dépit amoureux, La Princesse d'Élide, L'Étourdi ou les Contretemps, L'Impromptu de Versailles, La Jalousie du barbouillé, L'Amour médecin, L'École des maris, Le Misanthrope, L'École des femmes, Le Médecin malgré lui, Dom Juan ou le Festin de pierre, Le Tartuffe, Les Précieuses ridicules, Les Femmes savantes",
         "movements":"classicisme",
-        "popularity":814345
+        "popularity":814345,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q9327",
@@ -960,7 +1066,8 @@
         "date_death":"1893-07-06T00:00:00Z",
         "works":"Le Horla, Une Vie, Bel-Ami, Boule de suif",
         "movements":"réalisme",
-        "popularity":627023
+        "popularity":627023,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q611066",
@@ -969,7 +1076,8 @@
         "date_death":"1920-04-04T00:00:00Z",
         "works":"",
         "movements":"symbolisme",
-        "popularity":10159
+        "popularity":10159,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1785",
@@ -978,7 +1086,8 @@
         "date_death":"2018-10-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":1202570
+        "popularity":1202570,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3122554",
@@ -987,7 +1096,8 @@
         "date_death":"2001-07-12T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":52907
+        "popularity":52907,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q535",
@@ -996,7 +1106,8 @@
         "date_death":"1885-05-22T00:00:00Z",
         "works":"Les Contemplations, Les Orientales, L'Art d'être grand-père, Notre-Dame de Paris, L'Homme qui rit, Les Misérables, Quatrevingt-treize, Les Travailleurs de la mer",
         "movements":"romantisme français",
-        "popularity":1027664
+        "popularity":1027664,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3087508",
@@ -1005,7 +1116,8 @@
         "date_death":"1945-04-26T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":13485
+        "popularity":13485,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q189950",
@@ -1014,7 +1126,8 @@
         "date_death":"1938-12-27T00:00:00Z",
         "works":"Le Bruit du temps",
         "movements":"acméisme",
-        "popularity":15822
+        "popularity":15822,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3501693",
@@ -1023,7 +1136,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":18246
+        "popularity":18246,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2642478",
@@ -1032,7 +1146,8 @@
         "date_death":"1995-11-18T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":45261
+        "popularity":45261,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q187166",
@@ -1041,7 +1156,8 @@
         "date_death":"1948-03-04T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":78809
+        "popularity":78809,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q315015",
@@ -1050,7 +1166,8 @@
         "date_death":"1988-02-19T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":61925
+        "popularity":61925,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q20881134",
@@ -1059,7 +1176,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":25093
+        "popularity":25093,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q42443",
@@ -1068,7 +1186,8 @@
         "date_death":"1924-10-12T00:00:00Z",
         "works":"Thaïs, Le Lys rouge, Les dieux ont soif",
         "movements":"libre-pensée",
-        "popularity":108105
+        "popularity":108105,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q127984",
@@ -1077,7 +1196,8 @@
         "date_death":"1906-06-30T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11598
+        "popularity":11598,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q103114",
@@ -1086,7 +1206,8 @@
         "date_death":"None",
         "works":"Les Particules élémentaires, Anéantir, Soumission, La Possibilité d'une île, Extension du domaine de la lutte, La Carte et le Territoire, Plateforme",
         "movements":"",
-        "popularity":223415
+        "popularity":223415,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3159944",
@@ -1095,7 +1216,8 @@
         "date_death":"2024-09-30T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":22293
+        "popularity":22293,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q49752",
@@ -1104,7 +1226,8 @@
         "date_death":"1585-12-27T00:00:00Z",
         "works":"",
         "movements":"Pléiade",
-        "popularity":178562
+        "popularity":178562,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q297881",
@@ -1113,7 +1236,8 @@
         "date_death":"1969-12-26T00:00:00Z",
         "works":"Madame de...",
         "movements":"",
-        "popularity":40201
+        "popularity":40201,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q7833",
@@ -1122,7 +1246,8 @@
         "date_death":"1959-06-23T00:00:00Z",
         "works":"La Java des bombes atomiques, Fais-moi mal Johnny, En avant la zizique… et par ici les gros sous, Faut rigoler, Série blême, Chroniques du menteur, J'irai cracher sur vos tombes, Vercoquin et le Plancton, Trouble dans les andains, Manuel de Saint-Germain-des-Prés, Les Lurettes fourrées, Les Fourmis, Les Bâtisseurs d'empire, Le Ratichon baigneur, Le Loup-garou, Le Goûter des généraux, Le Chasseur français, L'Équarrissage pour tous, L'Herbe rouge, L'Automne à Pékin, L'Arrache-cœur, Conte de fées à l'usage des moyennes personnes, Cinémassacre, Le Chevalier de neige, Écrits pornographiques, Cantilènes en gelée, Tête de méduse, Le Déserteur, Je voudrais pas crever, L'Écume des jours",
         "movements":"Zazou",
-        "popularity":217796
+        "popularity":217796,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3265500",
@@ -1131,7 +1256,8 @@
         "date_death":"2024-11-05T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":30343
+        "popularity":30343,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q116042",
@@ -1140,7 +1266,8 @@
         "date_death":"2005-05-31T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":18554
+        "popularity":18554,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2253112",
@@ -1149,7 +1276,8 @@
         "date_death":"2004-05-31T00:00:00Z",
         "works":"",
         "movements":"anarchisme, anarcho-syndicalisme",
-        "popularity":30176
+        "popularity":30176,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3275723",
@@ -1158,7 +1286,8 @@
         "date_death":"2024-11-06T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":98900
+        "popularity":98900,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3384169",
@@ -1167,7 +1296,8 @@
         "date_death":"1998-06-27T00:00:00Z",
         "works":"Ontologie du secret",
         "movements":"nationalisme, Maurrassisme, monarchisme",
-        "popularity":15339
+        "popularity":15339,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q551744",
@@ -1176,7 +1306,8 @@
         "date_death":"1926-12-12T00:00:00Z",
         "works":"La Chanson des gueux",
         "movements":"",
-        "popularity":14223
+        "popularity":14223,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q191305",
@@ -1185,7 +1316,8 @@
         "date_death":"1855-01-26T00:00:00Z",
         "works":"Aurélia ou le rêve et la vie, Les Illuminés, La Pandora, Voyage en Orient",
         "movements":"romantisme français",
-        "popularity":92366
+        "popularity":92366,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3385153",
@@ -1194,7 +1326,8 @@
         "date_death":"2014-02-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":16347
+        "popularity":16347,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q157309",
@@ -1203,7 +1336,8 @@
         "date_death":"1943-08-24T00:00:00Z",
         "works":"Cahiers, Oppression et liberté, La Condition ouvrière, La pesanteur et la grâce, Réflexions sur les causes de la liberté et de l'oppression sociale, L'Enracinement",
         "movements":"",
-        "popularity":437825
+        "popularity":437825,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q12857",
@@ -1212,7 +1346,8 @@
         "date_death":"None",
         "works":"Embrasser le ciel immense, Je suis né un jour bleu",
         "movements":"",
-        "popularity":80812
+        "popularity":80812,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q554949",
@@ -1221,7 +1356,8 @@
         "date_death":"1981-01-05T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":18468
+        "popularity":18468,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q162778",
@@ -1230,7 +1366,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":17284
+        "popularity":17284,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q152176",
@@ -1239,7 +1376,8 @@
         "date_death":"1952-11-18T00:00:00Z",
         "works":"Liberté",
         "movements":"Dada, surréalisme",
-        "popularity":167453
+        "popularity":167453,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q716541",
@@ -1248,7 +1386,8 @@
         "date_death":"1989-11-25T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":17308
+        "popularity":17308,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q660069",
@@ -1257,7 +1396,8 @@
         "date_death":"1965-07-27T00:00:00Z",
         "works":"",
         "movements":"Non-conformistes des années 30, personnalisme",
-        "popularity":10280
+        "popularity":10280,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q334965",
@@ -1266,7 +1406,8 @@
         "date_death":"1914-09-05T00:00:00Z",
         "works":"",
         "movements":"philosophie politique, personnalisme",
-        "popularity":133165
+        "popularity":133165,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q46706",
@@ -1275,7 +1416,8 @@
         "date_death":"1994-03-28T00:00:00Z",
         "works":"La Cantatrice chauve, Les Chaises, Rhinocéros, Le Nouveau Locataire, Tueur sans gages",
         "movements":"Dada, théâtre de l'absurde",
-        "popularity":110293
+        "popularity":110293,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q160780",
@@ -1284,7 +1426,8 @@
         "date_death":"1984-10-19T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":41950
+        "popularity":41950,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q27764",
@@ -1293,7 +1436,8 @@
         "date_death":"1794-07-28T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":75285
+        "popularity":75285,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q165110",
@@ -1302,7 +1446,8 @@
         "date_death":"2013-02-27T00:00:00Z",
         "works":"Indignez-vous !, Engagez-vous !",
         "movements":"",
-        "popularity":74615
+        "popularity":74615,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q726687",
@@ -1311,7 +1456,8 @@
         "date_death":"2024-12-05T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":39737
+        "popularity":39737,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q551787",
@@ -1320,7 +1466,8 @@
         "date_death":"1709-12-08T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":10829
+        "popularity":10829,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q7841",
@@ -1329,7 +1476,8 @@
         "date_death":"1907-11-01T00:00:00Z",
         "works":"Ubu roi, Gestes et opinions du docteur Faustroll, pataphysicien",
         "movements":"",
-        "popularity":48366
+        "popularity":48366,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q183492",
@@ -1338,7 +1486,8 @@
         "date_death":"None",
         "works":"Les Testaments, Neuf contes, La Femme comestible, Faire surface, Les Danseuses et autres nouvelles, Marquée au corps, La Vie avant l'homme, Le Temps du déluge, Captive, Graine de sorcière, C’est le cœur qui lâche en dernier, Le Dernier Homme, Œil-de-chat, La Servante écarlate, Le Tueur aveugle",
         "movements":"",
-        "popularity":55384
+        "popularity":55384,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q380275",
@@ -1347,7 +1496,8 @@
         "date_death":"1887-08-20T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":13650
+        "popularity":13650,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q563",
@@ -1356,7 +1506,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":235671
+        "popularity":235671,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q228546",
@@ -1365,7 +1516,8 @@
         "date_death":"1897-12-16T00:00:00Z",
         "works":"La Chèvre de monsieur Seguin, Tartarin de Tarascon, L'Arlésienne, Le Petit Chose, Lettres de mon moulin",
         "movements":"",
-        "popularity":99215
+        "popularity":99215,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1719595",
@@ -1374,7 +1526,8 @@
         "date_death":"2023-08-16T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":15846
+        "popularity":15846,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q177411",
@@ -1383,7 +1536,8 @@
         "date_death":"1970-10-09T00:00:00Z",
         "works":"Un roi sans divertissement, Regain, Colline, Le Hussard sur le toit",
         "movements":"",
-        "popularity":137588
+        "popularity":137588,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q42831",
@@ -1392,7 +1546,8 @@
         "date_death":"1883-09-03T00:00:00Z",
         "works":"Nid de gentilhomme, Poèmes en prose, Moumou, Pères et Fils, Mémoires d'un chasseur, Un mois à la campagne",
         "movements":"réalisme",
-        "popularity":31870
+        "popularity":31870,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3186649",
@@ -1401,7 +1556,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":12392
+        "popularity":12392,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q123109",
@@ -1410,7 +1566,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":11594
+        "popularity":11594,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q22210129",
@@ -1419,7 +1576,8 @@
         "date_death":"2009-04-05T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11925
+        "popularity":11925,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q6882",
@@ -1428,7 +1586,8 @@
         "date_death":"1941-01-13T00:00:00Z",
         "works":"Les Exilés, Stephen le héros, Pomes Penyeach, Portrait de l'artiste en jeune homme, Les Gens de Dublin, Ulysse, Finnegans Wake",
         "movements":"",
-        "popularity":62200
+        "popularity":62200,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q95564908",
@@ -1437,7 +1596,8 @@
         "date_death":"2008-01-09T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":27811
+        "popularity":27811,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q106275",
@@ -1446,7 +1606,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":342771
+        "popularity":342771,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1086377",
@@ -1455,7 +1616,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":136169
+        "popularity":136169,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q380277",
@@ -1464,7 +1626,8 @@
         "date_death":"1908-05-23T00:00:00Z",
         "works":"",
         "movements":"Parnasse",
-        "popularity":20957
+        "popularity":20957,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q93284",
@@ -1473,7 +1636,8 @@
         "date_death":"1985-03-28T00:00:00Z",
         "works":"Vitraux pour Jerusalem, Derrière la maison, Moi et le village, Hommage à Apollinaire",
         "movements":"expressionnisme, modernisme catalan",
-        "popularity":127668
+        "popularity":127668,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q163118",
@@ -1482,7 +1646,8 @@
         "date_death":"1987-12-17T00:00:00Z",
         "works":"Nouvelles orientales, Mémoires d'Hadrien, Mishima ou la Vision du vide, Archives du Nord, Alexis ou le Traité du vain combat, L'Œuvre au noir",
         "movements":"",
-        "popularity":175982
+        "popularity":175982,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1096504",
@@ -1491,7 +1656,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":47254
+        "popularity":47254,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2848251",
@@ -1500,7 +1666,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":17918
+        "popularity":17918,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q965861",
@@ -1509,7 +1676,8 @@
         "date_death":"None",
         "works":"L'insolation, La Répudiation",
         "movements":"",
-        "popularity":11078
+        "popularity":11078,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q34782",
@@ -1518,7 +1686,8 @@
         "date_death":"1972-02-02T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":19537
+        "popularity":19537,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q229286",
@@ -1527,7 +1696,8 @@
         "date_death":"1572-06-09T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":64167
+        "popularity":64167,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3132164",
@@ -1536,7 +1706,8 @@
         "date_death":"1985-11-21T00:00:00Z",
         "works":"La Billebaude",
         "movements":"",
-        "popularity":19965
+        "popularity":19965,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q324998",
@@ -1545,7 +1716,8 @@
         "date_death":"1857-07-16T00:00:00Z",
         "works":"Negaraku",
         "movements":"musique classique",
-        "popularity":11946
+        "popularity":11946,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2960591",
@@ -1554,7 +1726,8 @@
         "date_death":"1880-01-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":1114902
+        "popularity":1114902,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q67504631",
@@ -1563,7 +1736,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":26084
+        "popularity":26084,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3165459",
@@ -1572,7 +1746,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":17169
+        "popularity":17169,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q356575",
@@ -1581,7 +1756,8 @@
         "date_death":"1888-08-09T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":19959
+        "popularity":19959,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1684952",
@@ -1590,7 +1766,8 @@
         "date_death":"1814-11-10T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":309174
+        "popularity":309174,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q237095",
@@ -1599,7 +1776,8 @@
         "date_death":"1701-06-02T00:00:00Z",
         "works":"Artamène ou le Grand Cyrus",
         "movements":"",
-        "popularity":28698
+        "popularity":28698,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q202749",
@@ -1608,7 +1786,8 @@
         "date_death":"1918-12-02T00:00:00Z",
         "works":"L'Aiglon, Chantecler, Cyrano de Bergerac",
         "movements":"néoromantisme",
-        "popularity":186861
+        "popularity":186861,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q154842",
@@ -1617,7 +1796,8 @@
         "date_death":"1976-04-01T00:00:00Z",
         "works":"C'est le chapeau qui fait l'Homme, L'Éléphant de Célèbes, La Mariée mise à nu",
         "movements":"Dada, surréalisme",
-        "popularity":73371
+        "popularity":73371,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q230499",
@@ -1626,7 +1806,8 @@
         "date_death":"1967-02-05T00:00:00Z",
         "works":"Volver a los 17, Gracias a la vida",
         "movements":"",
-        "popularity":12962
+        "popularity":12962,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3297724",
@@ -1635,7 +1816,8 @@
         "date_death":"1908-03-15T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":14697
+        "popularity":14697,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1666",
@@ -1644,7 +1826,8 @@
         "date_death":"1978-10-09T00:00:00Z",
         "works":"Marieke, Les Bourgeois, Quand on n'a que l'amour, La Fanette, L'Ivrogne, Bruxelles, Ces gens-là, Amsterdam, Ne me quitte pas",
         "movements":"",
-        "popularity":436474
+        "popularity":436474,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q56410787",
@@ -1653,7 +1836,8 @@
         "date_death":"1947-08-21T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":69149
+        "popularity":69149,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q263730",
@@ -1662,7 +1846,8 @@
         "date_death":"None",
         "works":"La Montagne sacrée, La Caste des Méta-Barons, El topo, L'Incal",
         "movements":"surréalisme, avant-garde",
-        "popularity":133065
+        "popularity":133065,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q333615",
@@ -1671,7 +1856,8 @@
         "date_death":"1923-12-12T00:00:00Z",
         "works":"Le Bal du comte d'Orgel, Le Diable au corps",
         "movements":"",
-        "popularity":50444
+        "popularity":50444,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1057727",
@@ -1680,7 +1866,8 @@
         "date_death":"1988-08-16T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":14984
+        "popularity":14984,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q33977",
@@ -1689,7 +1876,8 @@
         "date_death":"1905-03-24T00:00:00Z",
         "works":"Vingt Mille Lieues sous les mers, Michel Strogoff, Le Tour du monde en quatre-vingts jours, Cinq Semaines en ballon, L'Île mystérieuse, Voyage au centre de la Terre, De la Terre à la Lune",
         "movements":"",
-        "popularity":367835
+        "popularity":367835,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q546952",
@@ -1698,7 +1886,8 @@
         "date_death":"1970-06-27T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":23606
+        "popularity":23606,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3341908",
@@ -1707,7 +1896,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":73967
+        "popularity":73967,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q165274",
@@ -1716,7 +1906,8 @@
         "date_death":"1977-04-11T00:00:00Z",
         "works":"Paroles",
         "movements":"",
-        "popularity":159421
+        "popularity":159421,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q366464",
@@ -1725,7 +1916,8 @@
         "date_death":"1841-04-29T00:00:00Z",
         "works":"Gaspard de la nuit",
         "movements":"romantisme",
-        "popularity":16349
+        "popularity":16349,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q611791",
@@ -1734,7 +1926,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":28472
+        "popularity":28472,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q822562",
@@ -1743,7 +1936,8 @@
         "date_death":"1903-09-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11058
+        "popularity":11058,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q298051",
@@ -1752,7 +1946,8 @@
         "date_death":"2007-12-22T00:00:00Z",
         "works":"Le Rivage des Syrtes",
         "movements":"",
-        "popularity":57905
+        "popularity":57905,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q75889",
@@ -1761,7 +1956,8 @@
         "date_death":"1843-06-07T00:00:00Z",
         "works":"",
         "movements":"romantisme, idéalisme allemand",
-        "popularity":24621
+        "popularity":24621,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q318391",
@@ -1770,7 +1966,8 @@
         "date_death":"1968-05-31T00:00:00Z",
         "works":"Les Royautés, Les Modérés, En Chine, Les Familiers",
         "movements":"Parnasse, Club des longues moustaches",
-        "popularity":30428
+        "popularity":30428,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q207660",
@@ -1779,7 +1976,8 @@
         "date_death":"1836-06-26T00:00:00Z",
         "works":"La Marseillaise de la Commune, Le Chant des Girondins, La Marseillaise des Travailleurs, La Marseillaise",
         "movements":"musique classique",
-        "popularity":71798
+        "popularity":71798,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q171363",
@@ -1788,7 +1986,8 @@
         "date_death":"None",
         "works":"Thirteen Lives, Loin des hommes, Captain Fantastic, Green Book : Sur les routes du Sud, Le Seigneur des anneaux",
         "movements":"",
-        "popularity":316794
+        "popularity":316794,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q918599",
@@ -1797,7 +1996,8 @@
         "date_death":"1285-01-01T00:00:00Z",
         "works":"Le dit d'ypocrisie, D'ypocrisie, La voie de Tunes, La voie de Paradis, La vie dou monde, La vie sainte Elysabel, La vie sainte Marie l'Egiptienne, Li diz de l'Universitei de Paris, Du secrestain et la fame au chevalier, De sainte Eglise, Renart le Bestourné, Des regles, La chansons de Puille, Li diz de Puille, La povreté Rutebuef, Les plaies du monde, La priere Rutebuef, Les ordres de Paris, La chanson des ordres, Un dist de Nostre Dame, De Nostre Dame, La mort Rutebeuf, Messire Gefroy de Sargines, La griesche d'esté, La griesche d'yver, L'estat du monde, L'erberie, Desputizons dou croisié et dou descroisié, La novele complainte d'outremer, La complainte de Constantinoble, Des beguines, La bataille des vices contre les vertus, Ave Maria Rustebuef, Brichemer, La descorde de l'Université et des Jacobins, Les Jacobins, Li testament de l'asne, De maistre Guillaume de Saint Amour, Le dit des Cordeliers, La complainte Rutebeuf, La desputoison de Challot et du Barbier, Li diz des ribaux de Greive, Le pet au villain, La complainte de maistre Guilliaume de Saint Amor, La complainte dou conte de Poitiers, La complainte du conte Huede de Nevers, Monseigneur Anseau de l'Isle, Le mariage Rutebeuf, Le dit d’Aristotle, La complainte du roi de Navarre, La complainte d'outremer, Frère Denise, Le Miracle de Théophile",
         "movements":"",
-        "popularity":27622
+        "popularity":27622,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q21654137",
@@ -1806,7 +2006,8 @@
         "date_death":"None",
         "works":"Demain",
         "movements":"écologie",
-        "popularity":45131
+        "popularity":45131,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2851677",
@@ -1815,7 +2016,8 @@
         "date_death":"2024-07-29T00:00:00Z",
         "works":"",
         "movements":"surréalisme",
-        "popularity":45797
+        "popularity":45797,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q93166",
@@ -1824,7 +2026,8 @@
         "date_death":"2023-07-11T00:00:00Z",
         "works":"L'Art du roman, La Valse aux adieux, La Plaisanterie, L'Immortalité, Le Livre du rire et de l'oubli, Risibles amours, La vie est ailleurs, L'Insoutenable Légèreté de l'être",
         "movements":"",
-        "popularity":118864
+        "popularity":118864,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q275628",
@@ -1833,7 +2036,8 @@
         "date_death":"1909-11-18T00:00:00Z",
         "works":"",
         "movements":"Parnasse",
-        "popularity":22757
+        "popularity":22757,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2821160",
@@ -1842,7 +2046,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":14335
+        "popularity":14335,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q250136",
@@ -1851,7 +2056,8 @@
         "date_death":"2016-07-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":19541
+        "popularity":19541,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q966179",
@@ -1860,7 +2066,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":22490
+        "popularity":22490,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q185002",
@@ -1869,7 +2076,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":675057
+        "popularity":675057,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q198644",
@@ -1878,7 +2086,8 @@
         "date_death":"1935-12-25T00:00:00Z",
         "works":"Au bord de la mer, L’Irréparable, Les Aveux \/ Donner pour donner, Le Disciple, André Cornélis, Un divorce, Un crime d'amour, Cruelle Énigme, Le Démon de midi, L'Étape, Essais de psychologie contemporaine",
         "movements":"",
-        "popularity":19152
+        "popularity":19152,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q9068",
@@ -1887,7 +2096,8 @@
         "date_death":"1778-05-30T00:00:00Z",
         "works":"Correspondance de Voltaire, Lettres philosophiques, L'Ingénu, Le Fanatisme ou Mahomet, Dictionnaire philosophique, Zadig ou la Destinée, Candide, ou l'Optimisme, Zaïre",
         "movements":"siècle des Lumières, libre-pensée, déisme",
-        "popularity":549368
+        "popularity":549368,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q135640",
@@ -1896,7 +2106,8 @@
         "date_death":"1957-02-02T00:00:00Z",
         "works":"Fermina Márquez",
         "movements":"",
-        "popularity":16716
+        "popularity":16716,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1488",
@@ -1905,7 +2116,8 @@
         "date_death":"1945-02-06T00:00:00Z",
         "works":"Anthologie de la poésie grecque, Comme le temps passe..., Les Sept Couleurs",
         "movements":"",
-        "popularity":99342
+        "popularity":99342,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1337810",
@@ -1914,7 +2126,8 @@
         "date_death":"1932-09-14T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":27081
+        "popularity":27081,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q123635",
@@ -1923,7 +2136,8 @@
         "date_death":"1947-05-23T00:00:00Z",
         "works":"Aimé Pache, peintre vaudois, Si le soleil ne revenait pas",
         "movements":"",
-        "popularity":24055
+        "popularity":24055,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q442829",
@@ -1932,7 +2146,8 @@
         "date_death":"1993-12-14T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":181906
+        "popularity":181906,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q270227",
@@ -1941,7 +2156,8 @@
         "date_death":"1348-01-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":12161
+        "popularity":12161,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q18404",
@@ -1950,7 +2166,8 @@
         "date_death":"1935-08-30T00:00:00Z",
         "works":"Le Feu",
         "movements":"littérature prolétarienne",
-        "popularity":40754
+        "popularity":40754,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q216092",
@@ -1959,7 +2176,8 @@
         "date_death":"1905-01-09T00:00:00Z",
         "works":"La Commune, Mémoires de Louise Michel",
         "movements":"",
-        "popularity":271843
+        "popularity":271843,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q334958",
@@ -1968,7 +2186,8 @@
         "date_death":"1925-06-04T00:00:00Z",
         "works":"Les Chansons de Bilitis",
         "movements":"",
-        "popularity":43890
+        "popularity":43890,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q42596",
@@ -1977,7 +2196,8 @@
         "date_death":"1914-03-25T00:00:00Z",
         "works":"Lis Isclo d'Or, Calendau, Mirèio, Le Poème du Rhône, Le Trésor du Félibrige",
         "movements":"Félibrige",
-        "popularity":60159
+        "popularity":60159,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q154545",
@@ -1986,7 +2206,8 @@
         "date_death":"2001-12-20T00:00:00Z",
         "works":"Hosties noires, Éthiopiques",
         "movements":"",
-        "popularity":232009
+        "popularity":232009,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3082231",
@@ -1995,7 +2216,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":13641
+        "popularity":13641,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q960018",
@@ -2004,7 +2226,8 @@
         "date_death":"1956-02-22T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":29341
+        "popularity":29341,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q4302",
@@ -2013,7 +2236,8 @@
         "date_death":"1181-01-01T00:00:00Z",
         "works":"Yvain ou le Chevalier au lion, Érec et Énide, Perceval ou le Conte du Graal, Cligès, Lancelot ou le Chevalier de la charrette",
         "movements":"",
-        "popularity":107690
+        "popularity":107690,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q128460",
@@ -2022,7 +2246,8 @@
         "date_death":"1703-05-16T00:00:00Z",
         "works":"Les Contes de ma mère l'Oye, Hommes illustres qui ont paru en France pendant ce siècle",
         "movements":"classicisme",
-        "popularity":148451
+        "popularity":148451,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q738880",
@@ -2031,7 +2256,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":446639
+        "popularity":446639,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q237098",
@@ -2040,7 +2266,8 @@
         "date_death":"1566-05-05T00:00:00Z",
         "works":"",
         "movements":"École de Lyon",
-        "popularity":97340
+        "popularity":97340,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q551725",
@@ -2049,7 +2276,8 @@
         "date_death":"1660-10-06T00:00:00Z",
         "works":"",
         "movements":"baroque",
-        "popularity":30962
+        "popularity":30962,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q719314",
@@ -2058,7 +2286,8 @@
         "date_death":"2004-03-04T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":194651
+        "popularity":194651,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q680897",
@@ -2067,7 +2296,8 @@
         "date_death":"1936-12-07T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":75563
+        "popularity":75563,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3144753",
@@ -2076,7 +2306,8 @@
         "date_death":"None",
         "works":"Pas même le bruit d'un fleuve",
         "movements":"",
-        "popularity":37919
+        "popularity":37919,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q42247",
@@ -2085,7 +2316,8 @@
         "date_death":"1907-09-07T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":26590
+        "popularity":26590,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q49747",
@@ -2094,7 +2326,8 @@
         "date_death":"1949-05-06T00:00:00Z",
         "works":"Les Sept Princesses, Alladine et Palomides, Aglavaine et Sélysette, Le Trésor des humbles, La Mort de Tintagiles, Les Aveugles, La Princesse Maleine, Intérieur, L'Oiseau bleu, L'Intruse, Pelléas et Mélisande, Monna Vanna",
         "movements":"symbolisme",
-        "popularity":31225
+        "popularity":31225,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q23434",
@@ -2103,7 +2336,8 @@
         "date_death":"1961-07-02T00:00:00Z",
         "works":"Les Neiges du Kilimandjaro, L'Heure triomphale de Francis Macomber, Paradis perdu, L'Adieu aux armes, Le soleil se lève aussi, Le Vieil Homme et la Mer",
         "movements":"",
-        "popularity":199532
+        "popularity":199532,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q28495672",
@@ -2112,7 +2346,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":10612
+        "popularity":10612,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q849",
@@ -2121,7 +2356,8 @@
         "date_death":"1463-01-01T00:00:00Z",
         "works":"Épître à Marie d’Orléans, Le Testament, Ballade des pendus",
         "movements":"",
-        "popularity":98719
+        "popularity":98719,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q320146",
@@ -2130,7 +2366,8 @@
         "date_death":"1993-07-14T00:00:00Z",
         "works":"La Chanson du mal-aimé, Verlaine et Rimbaud, Léo Ferré chante Baudelaire, Les Chansons d'Aragon, L'Espoir, Il n'y a plus rien, Amour anarchie, La Violence et l'Ennui, Léo Ferré, L'Opéra du pauvre",
         "movements":"musique classique",
-        "popularity":153886
+        "popularity":153886,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q310767",
@@ -2139,7 +2376,8 @@
         "date_death":"1823-08-02T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":49922
+        "popularity":49922,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q551804",
@@ -2148,7 +2386,8 @@
         "date_death":"1573-03-23T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":14654
+        "popularity":14654,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q551749",
@@ -2157,7 +2396,8 @@
         "date_death":"1988-08-06T00:00:00Z",
         "works":"Le Parti pris des choses",
         "movements":"",
-        "popularity":63330
+        "popularity":63330,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3086562",
@@ -2166,7 +2406,8 @@
         "date_death":"None",
         "works":"Le Monde comme si",
         "movements":"",
-        "popularity":11069
+        "popularity":11069,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3477667",
@@ -2175,7 +2416,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":10728
+        "popularity":10728,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q951835",
@@ -2184,7 +2426,8 @@
         "date_death":"1925-02-25T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11291
+        "popularity":11291,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q442928",
@@ -2193,7 +2436,8 @@
         "date_death":"1876-03-08T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":13347
+        "popularity":13347,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q722733",
@@ -2202,7 +2446,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":190015
+        "popularity":190015,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q22750",
@@ -2211,7 +2456,8 @@
         "date_death":"1980-09-08T00:00:00Z",
         "works":"Ceux de 14, Un jour, Raboliot, Les Compagnons de l'Aubépin, La Mort de près, La Forêt perdue, La Dernière Harde",
         "movements":"roman, poème",
-        "popularity":59303
+        "popularity":59303,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2961093",
@@ -2220,7 +2466,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":141354
+        "popularity":141354,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q59581",
@@ -2229,7 +2476,8 @@
         "date_death":"None",
         "works":"Hadriana dans tous mes rêves",
         "movements":"",
-        "popularity":11337
+        "popularity":11337,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q156214",
@@ -2238,7 +2486,8 @@
         "date_death":"1944-03-05T00:00:00Z",
         "works":"",
         "movements":"cubisme",
-        "popularity":55657
+        "popularity":55657,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q153739",
@@ -2247,7 +2496,8 @@
         "date_death":"1966-06-07T00:00:00Z",
         "works":"Tabarna, Évocation d'une forme : humaine, lunaire, spectrale",
         "movements":"Dada, surréalisme, De Stijl",
-        "popularity":34054
+        "popularity":34054,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q313348",
@@ -2256,7 +2506,8 @@
         "date_death":"1915-10-11T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":23746
+        "popularity":23746,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q76483",
@@ -2265,7 +2516,8 @@
         "date_death":"1926-12-29T00:00:00Z",
         "works":"Worpswede, Élégies de Duino, Sonnets à Orphée, Les Cahiers de Malte Laurids Brigge",
         "movements":"symbolisme",
-        "popularity":71089
+        "popularity":71089,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2897803",
@@ -2274,7 +2526,8 @@
         "date_death":"1981-07-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":37492
+        "popularity":37492,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3292627",
@@ -2283,7 +2536,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":11183
+        "popularity":11183,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q551735",
@@ -2292,7 +2546,8 @@
         "date_death":"1875-03-27T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":30879
+        "popularity":30879,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q319896",
@@ -2301,7 +2556,8 @@
         "date_death":"1940-08-03T00:00:00Z",
         "works":"Betar, Betar Naval Academy, Irgoun, Légion juive",
         "movements":"sionisme révisionniste",
-        "popularity":35005
+        "popularity":35005,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1356737",
@@ -2310,7 +2566,8 @@
         "date_death":"1983-06-09T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":10184
+        "popularity":10184,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q78491",
@@ -2319,7 +2576,8 @@
         "date_death":"1942-02-22T00:00:00Z",
         "works":"Lettre d'une inconnue, Ivresse de la métamorphose, Le Monde d'hier. Souvenirs d'un Européen, Le Joueur d'échecs, La Pitié dangereuse",
         "movements":"",
-        "popularity":228412
+        "popularity":228412,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q669685",
@@ -2328,7 +2586,8 @@
         "date_death":"1921-12-11T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":19424
+        "popularity":19424,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q110740724",
@@ -2337,7 +2596,8 @@
         "date_death":"1990-12-24T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":13659
+        "popularity":13659,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3301977",
@@ -2346,7 +2606,8 @@
         "date_death":"1980-08-22T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":12241
+        "popularity":12241,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q123553",
@@ -2355,7 +2616,8 @@
         "date_death":"1981-10-17T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":52976
+        "popularity":52976,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q24700038",
@@ -2364,7 +2626,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":15619
+        "popularity":15619,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q188857",
@@ -2373,7 +2636,8 @@
         "date_death":"1711-03-13T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":56820
+        "popularity":56820,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q676555",
@@ -2382,7 +2646,8 @@
         "date_death":"1226-10-10T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":184379
+        "popularity":184379,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q983610",
@@ -2391,7 +2656,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":41701
+        "popularity":41701,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q309704",
@@ -2400,7 +2666,8 @@
         "date_death":"1894-07-17T00:00:00Z",
         "works":"Poèmes tragiques, Poèmes barbares, Poèmes antiques",
         "movements":"Parnasse",
-        "popularity":27637
+        "popularity":27637,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q152880",
@@ -2409,7 +2676,8 @@
         "date_death":"2001-02-04T00:00:00Z",
         "works":"",
         "movements":"nouvelle musique",
-        "popularity":26142
+        "popularity":26142,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q320445",
@@ -2418,7 +2686,8 @@
         "date_death":"1836-01-09T00:00:00Z",
         "works":"Mémoires",
         "movements":"",
-        "popularity":16425
+        "popularity":16425,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q179680",
@@ -2427,7 +2696,8 @@
         "date_death":"1857-05-02T00:00:00Z",
         "works":"Les Caprices de Marianne",
         "movements":"romantisme",
-        "popularity":161322
+        "popularity":161322,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q10679",
@@ -2436,7 +2706,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":22245
+        "popularity":22245,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q466987",
@@ -2445,7 +2716,8 @@
         "date_death":"1859-07-23T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":39183
+        "popularity":39183,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q193680",
@@ -2454,7 +2726,8 @@
         "date_death":"1916-11-27T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":30002
+        "popularity":30002,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1085320",
@@ -2463,7 +2736,8 @@
         "date_death":"1968-02-21T00:00:00Z",
         "works":"Poésies complètes",
         "movements":"",
-        "popularity":14084
+        "popularity":14084,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q295830",
@@ -2472,7 +2746,8 @@
         "date_death":"1955-02-23T00:00:00Z",
         "works":"Partage de midi, Le Soulier de satin, L'Histoire de Tobie et de Sara",
         "movements":"",
-        "popularity":110312
+        "popularity":110312,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q551740",
@@ -2481,7 +2756,8 @@
         "date_death":"1794-09-13T00:00:00Z",
         "works":"Fables",
         "movements":"",
-        "popularity":20662
+        "popularity":20662,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q551757",
@@ -2490,7 +2766,8 @@
         "date_death":"1996-03-03T00:00:00Z",
         "works":"",
         "movements":"surréalisme",
-        "popularity":18784
+        "popularity":18784,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3190467",
@@ -2499,7 +2776,8 @@
         "date_death":"1907-11-15T00:00:00Z",
         "works":"La Dessalinienne",
         "movements":"",
-        "popularity":11698
+        "popularity":11698,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q358479",
@@ -2508,7 +2786,8 @@
         "date_death":"1996-02-17T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":61633
+        "popularity":61633,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q440316",
@@ -2517,7 +2796,8 @@
         "date_death":"2021-11-14T00:00:00Z",
         "works":"",
         "movements":"mouvement hurufiyya",
-        "popularity":85662
+        "popularity":85662,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q658382",
@@ -2526,7 +2806,8 @@
         "date_death":"1990-10-26T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":25589
+        "popularity":25589,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q971215",
@@ -2535,7 +2816,8 @@
         "date_death":"1909-02-08T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":13398
+        "popularity":13398,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q54885",
@@ -2544,7 +2826,8 @@
         "date_death":"2010-03-13T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":172837
+        "popularity":172837,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q594644",
@@ -2553,7 +2836,8 @@
         "date_death":"1988-08-08T00:00:00Z",
         "works":"Le tour de l'île",
         "movements":"",
-        "popularity":44990
+        "popularity":44990,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q436996",
@@ -2562,7 +2846,8 @@
         "date_death":"2017-01-27T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":53153
+        "popularity":53153,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q334989",
@@ -2571,7 +2856,8 @@
         "date_death":"None",
         "works":"Cette aveuglante absence de lumière, La Nuit sacrée",
         "movements":"",
-        "popularity":77324
+        "popularity":77324,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1389258",
@@ -2580,7 +2866,8 @@
         "date_death":"2018-02-13T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":109922
+        "popularity":109922,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q708078",
@@ -2589,7 +2876,8 @@
         "date_death":"1944-02-21T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":847834
+        "popularity":847834,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q44107",
@@ -2598,7 +2886,8 @@
         "date_death":"None",
         "works":"Outrage au public, L'Angoisse du gardien de but au moment du penalty, Le Malheur indifférent, La Nuit morave, La Courte Lettre pour un long adieu, La Femme gauchère",
         "movements":"Wiener Gruppe, Groupe 47",
-        "popularity":22741
+        "popularity":22741,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q353876",
@@ -2607,7 +2896,8 @@
         "date_death":"1915-09-27T00:00:00Z",
         "works":"",
         "movements":"symbolisme",
-        "popularity":10623
+        "popularity":10623,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q334950",
@@ -2616,7 +2906,8 @@
         "date_death":"1630-05-09T00:00:00Z",
         "works":"Les Tragiques",
         "movements":"littérature baroque",
-        "popularity":31299
+        "popularity":31299,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3172873",
@@ -2625,7 +2916,8 @@
         "date_death":"1970-04-17T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11287
+        "popularity":11287,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q123916",
@@ -2634,7 +2926,8 @@
         "date_death":"1881-05-11T00:00:00Z",
         "works":"",
         "movements":"idéalisme allemand",
-        "popularity":12922
+        "popularity":12922,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q133855",
@@ -2643,7 +2936,8 @@
         "date_death":"1918-11-09T00:00:00Z",
         "works":"Alcools",
         "movements":"",
-        "popularity":250028
+        "popularity":250028,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q312915",
@@ -2652,7 +2946,8 @@
         "date_death":"1887-11-06T00:00:00Z",
         "works":"L'Internationale",
         "movements":"",
-        "popularity":12994
+        "popularity":12994,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2097468",
@@ -2661,7 +2956,8 @@
         "date_death":"1940-10-18T00:00:00Z",
         "works":"",
         "movements":"symbolisme",
-        "popularity":12816
+        "popularity":12816,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q309768",
@@ -2670,7 +2966,8 @@
         "date_death":"None",
         "works":"La tour prend garde",
         "movements":"",
-        "popularity":13647
+        "popularity":13647,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q353873",
@@ -2679,7 +2976,8 @@
         "date_death":"1938-11-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":18465
+        "popularity":18465,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3560369",
@@ -2688,7 +2986,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":11171
+        "popularity":11171,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q6050",
@@ -2697,7 +2996,8 @@
         "date_death":"1933-04-30T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":42558
+        "popularity":42558,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q309702",
@@ -2706,7 +3006,8 @@
         "date_death":"1863-09-17T00:00:00Z",
         "works":"Cinq-Mars, Stello, Servitude et grandeur militaires, Poèmes antiques et modernes, La Mort du loup, La Maréchale d'Ancre, Chatterton",
         "movements":"romantisme",
-        "popularity":48706
+        "popularity":48706,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1063392",
@@ -2715,7 +3016,8 @@
         "date_death":"1869-10-13T00:00:00Z",
         "works":"Les Consolations, Lettres à la princesse, Pensées d'Août, de M. Sainte-Beuve, Poésies complètes, Vie, poésies et pensées de Joseph Delorme, Volupté, Causeries du lundi",
         "movements":"romantisme",
-        "popularity":34457
+        "popularity":34457,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2856635",
@@ -2724,7 +3026,8 @@
         "date_death":"1971-06-20T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":14251
+        "popularity":14251,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q295004",
@@ -2733,7 +3036,8 @@
         "date_death":"None",
         "works":"Celles qui attendent, Le Ventre de l'Atlantique",
         "movements":"",
-        "popularity":60400
+        "popularity":60400,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q30875",
@@ -2742,7 +3046,8 @@
         "date_death":"1900-11-30T00:00:00Z",
         "works":"La Ballade de la geôle de Reading, Le Fantôme de Canterville, L'Âme de l'homme sous le socialisme, Le Portrait de Dorian Gray, L'Importance d'être Constant",
         "movements":"esthétisme, décadentisme",
-        "popularity":182067
+        "popularity":182067,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q270820",
@@ -2751,7 +3056,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":17468
+        "popularity":17468,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q172599",
@@ -2760,7 +3066,8 @@
         "date_death":"1837-06-14T00:00:00Z",
         "works":"Zibaldone, Canti, L'Infini",
         "movements":"",
-        "popularity":14239
+        "popularity":14239,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q737768",
@@ -2769,7 +3076,8 @@
         "date_death":"2000-01-22T00:00:00Z",
         "works":"Les Fous de Bassan, Le Torrent, Kamouraska",
         "movements":"",
-        "popularity":12217
+        "popularity":12217,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2641050",
@@ -2778,7 +3086,8 @@
         "date_death":"1976-04-02T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":248989
+        "popularity":248989,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q430765",
@@ -2787,7 +3096,8 @@
         "date_death":"1978-12-21T00:00:00Z",
         "works":"Les jeux et les hommes. Le masque et le vertige",
         "movements":"",
-        "popularity":21423
+        "popularity":21423,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q709670",
@@ -2796,7 +3106,8 @@
         "date_death":"1814-04-25T00:00:00Z",
         "works":"Tableau de Paris, L'An 2440, rêve s'il en fut jamais",
         "movements":"Lumières",
-        "popularity":12343
+        "popularity":12343,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q336010",
@@ -2805,7 +3116,8 @@
         "date_death":"1844-01-27T00:00:00Z",
         "works":"",
         "movements":"romantisme",
-        "popularity":17233
+        "popularity":17233,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q270800",
@@ -2814,7 +3126,8 @@
         "date_death":"1962-10-16T00:00:00Z",
         "works":"L'Expérience de l'espace dans la physique contemporaine, La Psychanalyse du feu, La Formation de l'esprit scientifique, L'Eau et les Rêves",
         "movements":"épistémologie historique",
-        "popularity":62845
+        "popularity":62845,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q49767",
@@ -2823,7 +3136,8 @@
         "date_death":"1848-07-04T00:00:00Z",
         "works":"Génie du christianisme, Mémoires d'outre-tombe, René, Atala",
         "movements":"romantisme",
-        "popularity":239990
+        "popularity":239990,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1335349",
@@ -2832,7 +3146,8 @@
         "date_death":"2010-01-10T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":132940
+        "popularity":132940,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2997372",
@@ -2841,7 +3156,8 @@
         "date_death":"1835-07-12T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":12049
+        "popularity":12049,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q235731",
@@ -2850,7 +3166,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":26745
+        "popularity":26745,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q241098",
@@ -2859,7 +3176,8 @@
         "date_death":"1958-10-10T00:00:00Z",
         "works":"Bouquets de pavots, Bouquet d'anémones, Bords de Seine",
         "movements":"cubisme, fauvisme",
-        "popularity":20392
+        "popularity":20392,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2851371",
@@ -2868,7 +3186,8 @@
         "date_death":"1933-02-03T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":15658
+        "popularity":15658,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q11758",
@@ -2877,7 +3196,8 @@
         "date_death":"1917-04-14T00:00:00Z",
         "works":"Ho, mia kor’, Dua Libro, homaranismo, Fundamento de Esperanto, Langue Internationale, espéranto",
         "movements":"sionisme, mouvement espérantophone",
-        "popularity":20988
+        "popularity":20988,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q34670",
@@ -2886,7 +3206,8 @@
         "date_death":"1960-01-04T00:00:00Z",
         "works":"La Peste, Caligula, L'Étranger, Albert Camus, Maria Casarès. Correspondance (1944-1959), La Mort heureuse, Ni Victimes, ni bourreaux, L'Homme révolté, Le Mythe de Sisyphe, La Chute",
         "movements":"philosophie continentale",
-        "popularity":615973
+        "popularity":615973,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q83158",
@@ -2895,7 +3216,8 @@
         "date_death":"1963-10-11T00:00:00Z",
         "works":"Orphee, La Belle et la Bête, Le Sang d'un poète",
         "movements":"théâtre de l'absurde, modernisme",
-        "popularity":210859
+        "popularity":210859,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3059936",
@@ -2904,7 +3226,8 @@
         "date_death":"1837-02-20T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":13881
+        "popularity":13881,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q983273",
@@ -2913,7 +3236,8 @@
         "date_death":"1995-06-14T00:00:00Z",
         "works":"La Vie et demie",
         "movements":"",
-        "popularity":12399
+        "popularity":12399,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q20733",
@@ -2922,7 +3246,8 @@
         "date_death":"1966-04-13T00:00:00Z",
         "works":"Civilisation, Chronique des Pasquier",
         "movements":"",
-        "popularity":33128
+        "popularity":33128,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q561510",
@@ -2931,7 +3256,8 @@
         "date_death":"1936-05-23T00:00:00Z",
         "works":"",
         "movements":"symbolisme",
-        "popularity":13417
+        "popularity":13417,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q309716",
@@ -2940,7 +3266,8 @@
         "date_death":"2016-08-24T00:00:00Z",
         "works":"Passage de Milan, Degrés, La Modification, L'Emploi du temps",
         "movements":"nouveau roman",
-        "popularity":21272
+        "popularity":21272,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q60526144",
@@ -2949,7 +3276,8 @@
         "date_death":"1944-02-05T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":12458
+        "popularity":12458,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q155855",
@@ -2958,7 +3286,8 @@
         "date_death":"1938-12-25T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":14211
+        "popularity":14211,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q123216",
@@ -2967,7 +3296,8 @@
         "date_death":"2011-07-27T00:00:00Z",
         "works":"Le Grand Cahier",
         "movements":"",
-        "popularity":16394
+        "popularity":16394,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3189902",
@@ -2976,7 +3306,8 @@
         "date_death":"2021-09-18T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":17953
+        "popularity":17953,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1522692",
@@ -2985,7 +3316,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":73417
+        "popularity":73417,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q732569",
@@ -2994,7 +3326,8 @@
         "date_death":"1960-05-17T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":23576
+        "popularity":23576,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q132684",
@@ -3003,7 +3336,8 @@
         "date_death":"1975-09-20T00:00:00Z",
         "works":"Amers, Éloges, Anabase, Oiseaux",
         "movements":"",
-        "popularity":48267
+        "popularity":48267,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3316353",
@@ -3012,7 +3346,8 @@
         "date_death":"2022-05-22T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":52140
+        "popularity":52140,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3175975",
@@ -3021,7 +3356,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":17035
+        "popularity":17035,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q522970",
@@ -3030,7 +3366,8 @@
         "date_death":"1948-09-07T00:00:00Z",
         "works":"Le Voyage du condottière",
         "movements":"",
-        "popularity":12660
+        "popularity":12660,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q274429",
@@ -3039,7 +3376,8 @@
         "date_death":"1883-05-25T00:00:00Z",
         "works":"Revue historique de droit français et étranger",
         "movements":"",
-        "popularity":12533
+        "popularity":12533,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q591655",
@@ -3048,7 +3386,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":154781
+        "popularity":154781,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q46553003",
@@ -3057,7 +3396,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":12351
+        "popularity":12351,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q290227",
@@ -3066,7 +3406,8 @@
         "date_death":"1563-08-28T00:00:00Z",
         "works":"Discours de la servitude volontaire",
         "movements":"",
-        "popularity":75565
+        "popularity":75565,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2392492",
@@ -3075,7 +3416,8 @@
         "date_death":"1941-11-18T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":28221
+        "popularity":28221,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3086059",
@@ -3084,7 +3426,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":42506
+        "popularity":42506,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q371905",
@@ -3093,7 +3436,8 @@
         "date_death":"1905-10-28T00:00:00Z",
         "works":"",
         "movements":"Arts incohérents, Les Hydropathes",
-        "popularity":43392
+        "popularity":43392,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2657576",
@@ -3102,7 +3446,8 @@
         "date_death":"1990-04-30T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11839
+        "popularity":11839,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q324321",
@@ -3111,7 +3456,8 @@
         "date_death":"2023-11-02T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":12735
+        "popularity":12735,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2915679",
@@ -3120,7 +3466,8 @@
         "date_death":"2017-01-25T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":17709
+        "popularity":17709,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q46373",
@@ -3129,7 +3476,8 @@
         "date_death":"1917-09-27T00:00:00Z",
         "works":"Jeunes Spartiates à l'entraînement, Après le bain, femme nue s'essuyant la nuque, La Classe de danse, Ludovic Lepic et ses filles",
         "movements":"impressionnisme",
-        "popularity":80647
+        "popularity":80647,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q44403",
@@ -3138,7 +3486,8 @@
         "date_death":"1856-02-17T00:00:00Z",
         "works":"Die Harzreise, Allemagne, un conte d'hiver, Le Livre des chants, Le Rabbin de Bacharach, Atta Troll",
         "movements":"romantisme",
-        "popularity":32253
+        "popularity":32253,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q918268",
@@ -3147,7 +3496,8 @@
         "date_death":"1894-02-08T00:00:00Z",
         "works":"",
         "movements":"réalisme",
-        "popularity":10166
+        "popularity":10166,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q71331436",
@@ -3156,7 +3506,8 @@
         "date_death":"2017-12-30T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11183
+        "popularity":11183,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1684760",
@@ -3165,7 +3516,8 @@
         "date_death":"2000-01-26T00:00:00Z",
         "works":"Chourmo, Total Khéops",
         "movements":"",
-        "popularity":18271
+        "popularity":18271,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1646",
@@ -3174,7 +3526,8 @@
         "date_death":"2004-09-24T00:00:00Z",
         "works":"Bonjour tristesse",
         "movements":"",
-        "popularity":230686
+        "popularity":230686,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q130139",
@@ -3183,7 +3536,8 @@
         "date_death":"1996-06-18T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":12898
+        "popularity":12898,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q192207",
@@ -3192,7 +3546,8 @@
         "date_death":"1950-12-05T00:00:00Z",
         "works":"Savitri : Une Légende et un Symbole",
         "movements":"",
-        "popularity":16678
+        "popularity":16678,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q233088",
@@ -3201,7 +3556,8 @@
         "date_death":"1956-06-08T00:00:00Z",
         "works":"",
         "movements":"cubisme, fauvisme",
-        "popularity":49275
+        "popularity":49275,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q347891",
@@ -3210,7 +3566,8 @@
         "date_death":"1794-04-13T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":18009
+        "popularity":18009,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q179516",
@@ -3219,7 +3576,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":41083
+        "popularity":41083,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q513188",
@@ -3228,7 +3586,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":10977
+        "popularity":10977,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q81685",
@@ -3237,7 +3596,8 @@
         "date_death":"1970-09-01T00:00:00Z",
         "works":"Asmodée, Genitrix, Les arbres et les pierres, La Chair et le Sang, L'Enfant chargé de chaînes, L'Agneau, Galigaï, Destins, Ce qui était perdu, Le Baiser au lépreux, Un adolescent d'autrefois, Préséances, passage du malin, Maltaverne, Les Mal-aimés, Les Chemins de la mer, Les Anges noirs, Le Nœud de vipères, Le mystère Frontenac : roman, Le Fleuve de feu, Le Feu sur la terre, Le Désert de l'amour, La Robe prétexte, La Pharisienne, La Fin de la nuit, Thérèse Desqueyroux",
         "movements":"",
-        "popularity":96125
+        "popularity":96125,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3084304",
@@ -3246,7 +3606,8 @@
         "date_death":"2018-07-01T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":57726
+        "popularity":57726,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q71023",
@@ -3255,7 +3616,8 @@
         "date_death":"1984-01-07T00:00:00Z",
         "works":"pompage optique",
         "movements":"",
-        "popularity":10677
+        "popularity":10677,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q386816",
@@ -3264,7 +3626,8 @@
         "date_death":"1391-08-09T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":38697
+        "popularity":38697,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q123521",
@@ -3273,7 +3636,8 @@
         "date_death":"2021-02-24T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":21081
+        "popularity":21081,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3426323",
@@ -3282,7 +3646,8 @@
         "date_death":"1951-03-20T00:00:00Z",
         "works":"",
         "movements":"École de Rochefort",
-        "popularity":16855
+        "popularity":16855,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q382312",
@@ -3291,7 +3656,8 @@
         "date_death":"1998-04-30T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":16366
+        "popularity":16366,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q295537",
@@ -3300,7 +3666,8 @@
         "date_death":"2020-03-17T00:00:00Z",
         "works":"Le poète russe préfère les grands nègres",
         "movements":"postmodernisme",
-        "popularity":76606
+        "popularity":76606,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q465721",
@@ -3309,7 +3676,8 @@
         "date_death":"2011-02-06T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":78049
+        "popularity":78049,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q561724",
@@ -3318,7 +3686,8 @@
         "date_death":"1960-04-20T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":14148
+        "popularity":14148,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q25120",
@@ -3327,7 +3696,8 @@
         "date_death":"1975-11-02T00:00:00Z",
         "works":"Des oiseaux, petits et gros, Théorème, L'Évangile selon saint Matthieu, Les Ragazzi, Salò ou les 120 Journées de Sodome",
         "movements":"",
-        "popularity":130405
+        "popularity":130405,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q645167",
@@ -3336,7 +3706,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":53276
+        "popularity":53276,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q504",
@@ -3345,7 +3716,8 @@
         "date_death":"1902-09-29T00:00:00Z",
         "works":"Nana, J'accuse…!, Les Rougon-Macquart, Thérèse Raquin",
         "movements":"naturalisme, libre-pensée",
-        "popularity":552863
+        "popularity":552863,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q602468",
@@ -3354,7 +3726,8 @@
         "date_death":"1915-04-08T00:00:00Z",
         "works":"La Guerre des boutons, De Goupil à Margot : histoire de betes",
         "movements":"",
-        "popularity":20427
+        "popularity":20427,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3261403",
@@ -3363,7 +3736,8 @@
         "date_death":"1994-05-02T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":14160
+        "popularity":14160,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q983363",
@@ -3372,7 +3746,8 @@
         "date_death":"1978-01-22T00:00:00Z",
         "works":"",
         "movements":"négritude",
-        "popularity":28746
+        "popularity":28746,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q721223",
@@ -3381,7 +3756,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":135083
+        "popularity":135083,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q112232799",
@@ -3390,7 +3766,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":14013
+        "popularity":14013,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q214622",
@@ -3399,7 +3776,8 @@
         "date_death":"1957-10-26T00:00:00Z",
         "works":"Le Christ recrucifié, La Dernière Tentation, La Liberté ou la Mort, Alexis Zorba",
         "movements":"",
-        "popularity":17737
+        "popularity":17737,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1064",
@@ -3408,7 +3786,8 @@
         "date_death":"1873-05-22T00:00:00Z",
         "works":"Hymnes sacrés, Le Comte de Carmagnole, Adelchi, Le Cinq mai, Histoire de la colonne infâme, Les Fiancés",
         "movements":"romantisme italien",
-        "popularity":13492
+        "popularity":13492,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q334147",
@@ -3417,7 +3796,8 @@
         "date_death":"1974-06-11T00:00:00Z",
         "works":"Orientamenti, Synthèse de doctrine de la race, La Doctrine aryenne du combat et de la victoire, Révolte contre le monde moderne, Raâga Blanda, Métaphysique du sexe, La tradition hermétique, Le mystère du Graal et l'idée impériale gibeline",
         "movements":"individualisme, Révolution conservatrice, Mysticisme fasciste, pérennialisme, néofascisme",
-        "popularity":35342
+        "popularity":35342,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q195050",
@@ -3426,7 +3806,8 @@
         "date_death":"1967-12-23T00:00:00Z",
         "works":"Notes intimes",
         "movements":"",
-        "popularity":13264
+        "popularity":13264,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1399264",
@@ -3435,7 +3816,8 @@
         "date_death":"1976-05-04T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":23041
+        "popularity":23041,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q15909566",
@@ -3444,7 +3826,8 @@
         "date_death":"2024-02-13T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":10978
+        "popularity":10978,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q767",
@@ -3453,7 +3836,8 @@
         "date_death":"1898-09-09T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":66952
+        "popularity":66952,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3063916",
@@ -3462,7 +3846,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":41266
+        "popularity":41266,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q440779",
@@ -3471,7 +3856,8 @@
         "date_death":"1953-07-08T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":28947
+        "popularity":28947,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q777500",
@@ -3480,7 +3866,8 @@
         "date_death":"None",
         "works":"",
         "movements":"écologisme",
-        "popularity":129121
+        "popularity":129121,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q453578",
@@ -3489,7 +3876,8 @@
         "date_death":"1967-07-10T00:00:00Z",
         "works":"",
         "movements":"littérature prolétarienne",
-        "popularity":32288
+        "popularity":32288,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1393315",
@@ -3498,7 +3886,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":76084
+        "popularity":76084,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q553446",
@@ -3507,7 +3896,8 @@
         "date_death":"1794-04-05T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":24322
+        "popularity":24322,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q741527",
@@ -3516,7 +3906,8 @@
         "date_death":"2012-06-28T00:00:00Z",
         "works":"Histoire de la poésie française • essai",
         "movements":"",
-        "popularity":15208
+        "popularity":15208,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1395991",
@@ -3525,7 +3916,8 @@
         "date_death":"1978-01-13T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":33690
+        "popularity":33690,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q108926",
@@ -3534,7 +3926,8 @@
         "date_death":"1544-09-22T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":39422
+        "popularity":39422,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3591401",
@@ -3543,7 +3936,8 @@
         "date_death":"None",
         "works":"L'Ordre du jour",
         "movements":"",
-        "popularity":23620
+        "popularity":23620,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q336467",
@@ -3552,7 +3946,8 @@
         "date_death":"1990-03-12T00:00:00Z",
         "works":"Les Champs magnétiques",
         "movements":"Dada, surréalisme",
-        "popularity":16158
+        "popularity":16158,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q70326",
@@ -3561,7 +3956,8 @@
         "date_death":"1799-05-18T00:00:00Z",
         "works":"La Mère coupable, Le Barbier de Séville, Le Mariage de Figaro",
         "movements":"",
-        "popularity":105462
+        "popularity":105462,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q36591",
@@ -3570,7 +3966,8 @@
         "date_death":"1977-07-02T00:00:00Z",
         "works":"Feu pâle, Lolita, La Vraie Vie de Sebastian Knight, Autres Rivages, La Défense Loujine",
         "movements":"modernisme",
-        "popularity":65959
+        "popularity":65959,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1698",
@@ -3579,7 +3976,8 @@
         "date_death":"1991-03-02T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":545849
+        "popularity":545849,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q822315",
@@ -3588,7 +3986,8 @@
         "date_death":"2019-03-09T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":46299
+        "popularity":46299,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q83321",
@@ -3597,7 +3996,8 @@
         "date_death":"1798-06-04T00:00:00Z",
         "works":"Histoire de ma fuite des prisons de la République de Venise, Histoire de ma vie",
         "movements":"",
-        "popularity":90610
+        "popularity":90610,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q49496",
@@ -3606,7 +4006,8 @@
         "date_death":"1695-04-13T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":308309
+        "popularity":308309,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q487523",
@@ -3615,7 +4016,8 @@
         "date_death":"1926-03-20T00:00:00Z",
         "works":"La Légende de la mort en Basse-Bretagne",
         "movements":"",
-        "popularity":10713
+        "popularity":10713,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q243771",
@@ -3624,7 +4026,8 @@
         "date_death":"1939-02-22T00:00:00Z",
         "works":"Champs de Castille",
         "movements":"Génération de 98",
-        "popularity":27447
+        "popularity":27447,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2725043",
@@ -3633,7 +4036,8 @@
         "date_death":"1996-12-05T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":18511
+        "popularity":18511,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q109482482",
@@ -3642,7 +4046,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":10371
+        "popularity":10371,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3292905",
@@ -3651,7 +4056,8 @@
         "date_death":"1963-02-06T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":17789
+        "popularity":17789,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q561721",
@@ -3660,7 +4066,8 @@
         "date_death":"1993-06-02T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":13420
+        "popularity":13420,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q493",
@@ -3669,7 +4076,8 @@
         "date_death":"1891-11-10T00:00:00Z",
         "works":"Les Illuminations, Le Bateau ivre, Une saison en enfer",
         "movements":"symbolisme",
-        "popularity":690761
+        "popularity":690761,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q358491",
@@ -3678,7 +4086,8 @@
         "date_death":"1625-06-01T00:00:00Z",
         "works":"L'Astrée",
         "movements":"",
-        "popularity":14700
+        "popularity":14700,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q685277",
@@ -3687,7 +4096,8 @@
         "date_death":"2014-10-27T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11278
+        "popularity":11278,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q1221840",
@@ -3696,7 +4106,8 @@
         "date_death":"2022-01-27T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":13079
+        "popularity":13079,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q983025",
@@ -3705,7 +4116,8 @@
         "date_death":"1989-02-25T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":24088
+        "popularity":24088,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q7724",
@@ -3714,7 +4126,8 @@
         "date_death":"1912-05-14T00:00:00Z",
         "works":"Inferno, Le Songe, Le Père, Mademoiselle Julie, Le Chemin de Damas",
         "movements":"naturalisme, symbolisme",
-        "popularity":17560
+        "popularity":17560,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q47737",
@@ -3723,7 +4136,8 @@
         "date_death":"1931-04-10T00:00:00Z",
         "works":"Le Prophète, Les Ailes brisées",
         "movements":"symbolisme, Mahjar",
-        "popularity":61890
+        "popularity":61890,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q452272",
@@ -3732,7 +4146,8 @@
         "date_death":"1985-03-01T00:00:00Z",
         "works":"Auschwitz et après",
         "movements":"",
-        "popularity":38709
+        "popularity":38709,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q742",
@@ -3741,7 +4156,8 @@
         "date_death":"1699-04-21T00:00:00Z",
         "works":"Les Plaideurs, Andromaque, Alexandre le Grand, La Thébaïde, Phèdre, Iphigénie, Bérénice, Bajazet, Athalie, Esther, Mithridate, Britannicus",
         "movements":"classicisme",
-        "popularity":204264
+        "popularity":204264,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q57410",
@@ -3750,7 +4166,8 @@
         "date_death":"2016-09-28T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":82792
+        "popularity":82792,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q358574",
@@ -3759,7 +4176,8 @@
         "date_death":"1628-10-16T00:00:00Z",
         "works":"Consolation à M. du Perrier sur la mort de sa fille",
         "movements":"classicisme",
-        "popularity":37864
+        "popularity":37864,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q739325",
@@ -3768,7 +4186,8 @@
         "date_death":"1974-07-06T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":90832
+        "popularity":90832,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q515589",
@@ -3777,7 +4196,8 @@
         "date_death":"1903-02-23T00:00:00Z",
         "works":"Le Temps des cerises, La Semaine sanglante",
         "movements":"",
-        "popularity":12810
+        "popularity":12810,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q190058",
@@ -3786,7 +4206,8 @@
         "date_death":"1549-12-31T00:00:00Z",
         "works":"L'Heptaméron",
         "movements":"humanisme",
-        "popularity":58635
+        "popularity":58635,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q2908",
@@ -3795,7 +4216,8 @@
         "date_death":"1944-07-31T00:00:00Z",
         "works":"Lettre à un otage, Citadelle, Pilote de guerre, Terre des hommes, Courrier sud, Vol de nuit, Le Petit Prince",
         "movements":"",
-        "popularity":402509
+        "popularity":402509,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q79759",
@@ -3804,7 +4226,8 @@
         "date_death":"1674-11-08T00:00:00Z",
         "works":"Areopagitica, Le Paradis perdu",
         "movements":"",
-        "popularity":21723
+        "popularity":21723,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3113256",
@@ -3813,7 +4236,8 @@
         "date_death":"1906-04-22T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":23715
+        "popularity":23715,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q363870",
@@ -3822,7 +4246,8 @@
         "date_death":"2020-02-14T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":13079
+        "popularity":13079,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q161955",
@@ -3831,7 +4256,8 @@
         "date_death":"1966-09-28T00:00:00Z",
         "works":"Manifestes du surréalisme, Second Manifeste du Surréalisme, Manifeste du surréalisme",
         "movements":"surréalisme",
-        "popularity":112795
+        "popularity":112795,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q234964",
@@ -3840,7 +4266,8 @@
         "date_death":"None",
         "works":"La Venue à l'écriture",
         "movements":"",
-        "popularity":28527
+        "popularity":28527,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q501",
@@ -3849,7 +4276,8 @@
         "date_death":"1867-08-31T00:00:00Z",
         "works":"Réflexions sur quelques-uns de mes contemporains, La Fanfarlo, Le Peintre de la vie moderne, L'Albatros, Le Spleen de Paris, Les Paradis artificiels, Les Fleurs du mal",
         "movements":"symbolisme",
-        "popularity":327192
+        "popularity":327192,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q452299",
@@ -3858,7 +4286,8 @@
         "date_death":"1991-05-15T00:00:00Z",
         "works":"L'Étrange Destin de Wangrin",
         "movements":"",
-        "popularity":46390
+        "popularity":46390,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q561201",
@@ -3867,7 +4296,8 @@
         "date_death":"1995-01-27T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":20339
+        "popularity":20339,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q190302",
@@ -3876,7 +4306,8 @@
         "date_death":"1771-12-26T00:00:00Z",
         "works":"",
         "movements":"athéisme",
-        "popularity":14189
+        "popularity":14189,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q81447",
@@ -3885,7 +4316,8 @@
         "date_death":"1963-11-22T00:00:00Z",
         "works":"Who Are We?, Marina di Vezza, Le génie et la déesse, Les Corbeaux de Pearblossom, La science, la paix, la liberte, Musique Nocturne, Littérature et Science, La paix des profondeurs, Jaune de Crome, Croisière d'Hiver en Amérique Centrale, Retour au meilleur des mondes, Jouvence, Le Ciel et l'Enfer, Île, L'Art de voir, Cercle vicieux, Temps futurs, L'Éminence grise, Les Diables de Loudun, Les Portes de la perception, La Fin et les Moyens, La philosophie éternelle, Le Meilleur des mondes, L'Éternité retrouvée, Contrepoint",
         "movements":"",
-        "popularity":88696
+        "popularity":88696,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q310309",
@@ -3894,7 +4326,8 @@
         "date_death":"1757-01-09T00:00:00Z",
         "works":"Bellérophon, Éloges des académiciens, Thétis et Pélée, Énée et Lavinie, Entretiens sur la pluralité des mondes, Histoire des oracles, Psyché, Dialogue des morts, De l'origine des fables",
         "movements":"classicisme",
-        "popularity":27960
+        "popularity":27960,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q218690",
@@ -3903,7 +4336,8 @@
         "date_death":"1976-10-25T00:00:00Z",
         "works":"",
         "movements":"surréalisme",
-        "popularity":64087
+        "popularity":64087,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q317142",
@@ -3912,7 +4346,8 @@
         "date_death":"1989-11-20T00:00:00Z",
         "works":"Le Contexte",
         "movements":"",
-        "popularity":10034
+        "popularity":10034,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q310002",
@@ -3921,7 +4356,8 @@
         "date_death":"1715-01-07T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":56951
+        "popularity":56951,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q537093",
@@ -3930,7 +4366,8 @@
         "date_death":"1960-05-09T00:00:00Z",
         "works":"Batouala",
         "movements":"",
-        "popularity":19280
+        "popularity":19280,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3430709",
@@ -3939,7 +4376,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":14916
+        "popularity":14916,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q268522",
@@ -3948,7 +4386,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":31606
+        "popularity":31606,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3169761",
@@ -3957,7 +4396,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":10927
+        "popularity":10927,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q379931",
@@ -3966,7 +4406,8 @@
         "date_death":"1960-06-17T00:00:00Z",
         "works":"",
         "movements":"cubisme",
-        "popularity":24178
+        "popularity":24178,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q747",
@@ -3975,7 +4416,8 @@
         "date_death":"1684-10-01T00:00:00Z",
         "works":"Le Cid",
         "movements":"néo-classicisme",
-        "popularity":222533
+        "popularity":222533,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q469087",
@@ -3984,7 +4426,8 @@
         "date_death":"1645-07-13T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":11432
+        "popularity":11432,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3121336",
@@ -3993,7 +4436,8 @@
         "date_death":"2001-01-19T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":16184
+        "popularity":16184,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q909",
@@ -4002,7 +4446,8 @@
         "date_death":"1986-06-14T00:00:00Z",
         "works":"La Bibliothèque de Babel",
         "movements":"",
-        "popularity":65799
+        "popularity":65799,
+        "french_poet?":false
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q510114",
@@ -4011,7 +4456,8 @@
         "date_death":"1958-05-26T00:00:00Z",
         "works":"",
         "movements":"École fantaisiste",
-        "popularity":17294
+        "popularity":17294,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q462666",
@@ -4020,7 +4466,8 @@
         "date_death":"1917-11-03T00:00:00Z",
         "works":"Le Désespéré, La Femme pauvre, Le Sang du pauvre, Le Salut par les Juifs",
         "movements":"",
-        "popularity":37775
+        "popularity":37775,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q18222132",
@@ -4029,7 +4476,8 @@
         "date_death":"1875-12-18T00:00:00Z",
         "works":"",
         "movements":"",
-        "popularity":18478
+        "popularity":18478,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q3367577",
@@ -4038,7 +4486,8 @@
         "date_death":"None",
         "works":"",
         "movements":"",
-        "popularity":10644
+        "popularity":10644,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q297759",
@@ -4047,7 +4496,8 @@
         "date_death":"2008-11-30T00:00:00Z",
         "works":"Léon Morin, prêtre",
         "movements":"",
-        "popularity":12102
+        "popularity":12102,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q472697",
@@ -4056,7 +4506,8 @@
         "date_death":"1905-02-12T00:00:00Z",
         "works":"La Tragique Histoire d’Hamlet, Prince de Danemark",
         "movements":"symbolisme",
-        "popularity":10661
+        "popularity":10661,
+        "french_poet?":true
     },
     {
         "poet":"http:\/\/www.wikidata.org\/entity\/Q184622",
@@ -4065,6 +4516,7 @@
         "date_death":"1986-04-14T00:00:00Z",
         "works":"Les Bonnes, Notre-Dame-des-Fleurs",
         "movements":"",
-        "popularity":141970
+        "popularity":141970,
+        "french_poet?":true
     }
 ]
