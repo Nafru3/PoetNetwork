@@ -17,15 +17,8 @@ degree_count = {}
 
 # Calcul du degré des nœuds
 for src, dst in zip(sources, targets):
-    if src in degree_count:
-        degree_count[src] += 1
-    else:
-        degree_count[src] = 1
-
-    if dst in degree_count:
-        degree_count[dst] += 1
-    else:
-        degree_count[dst] = 1
+    degree_count[src] = degree_count.get(src, 0) + 1
+    degree_count[dst] = degree_count.get(dst, 0) + 1
 
 # Ajouter les nœuds avec une taille proportionnelle à leur degré
 for node, degree in degree_count.items():
@@ -35,6 +28,8 @@ for node, degree in degree_count.items():
 for src, dst in zip(sources, targets):
     g.add_edge(src, dst)
 
+# Ajuster les paramètres physiques pour réduire l'élasticité
+g.barnes_hut(gravity=-5000, central_gravity=0.3, spring_length=50, spring_strength=0.05, damping=0.9)
+
 # Affichage
 g.show('mygraph.html', notebook=False)
-
