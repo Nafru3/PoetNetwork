@@ -41,6 +41,7 @@ This project aims to analyze French poets by retrieving data from Wikidata and W
    - Save poet data as `data_frenchpoet.json`.
    - Save poet relationships as `links.csv`.
    - Visualize movement distribution and poet connections.
+   - Open `mygraph.html` to see the diagram of links between the poets.
 
 ## Usage
 1. Install dependencies:
